@@ -225,8 +225,16 @@ class XenoCantoFetcher:
         try:
             with open(SUMMARY_FILE, 'w', newline='') as f:
                 writer = csv.writer(f)
-                writer.writerow(['species', 'recordings_fetched', 'pages_requested'])
-                writer.writerows(self.summary_data)
+                writer.writerow(['species', 'recordings_fetched', 'pages_requested', 'found_in_xenocanto'])
+                
+                # Add found_in_xenocanto column
+                updated_data = []
+                for row in self.summary_data:
+                    species, recordings, pages = row
+                    found = 'Yes' if recordings > 0 else 'No'
+                    updated_data.append([species, recordings, pages, found])
+                
+                writer.writerows(updated_data)
                 
             self.logger.info(f"Summary saved to {SUMMARY_FILE}")
         except Exception as e:

@@ -66,8 +66,31 @@ xeno-canto downloads/
 │   └── ...
 ├── xenocanto_fetch.log       # Fetch operation log
 ├── download_audio.log        # Download operation log
-└── fetch_summary.csv         # Summary statistics
+├── fetch_summary.csv         # Summary statistics
+└── labels_updated.csv        # Species list with Xeno-canto availability
 ```
+
+## Tracking Species Availability
+
+### Update labels.csv with results
+```bash
+python update_labels_with_results.py
+```
+
+This will:
+- Scan cached data to find which species have recordings
+- Create `labels_updated.csv` with two new columns:
+  - `found_in_xenocanto`: Yes/No/Not searched
+  - `xenocanto_recordings`: Number of recordings available
+
+### Update labels.csv in place
+```bash
+python update_labels_inplace.py
+```
+
+This will:
+- Create a timestamped backup of labels.csv
+- Update the original labels.csv with Xeno-canto results
 
 ## Rate Limiting
 
