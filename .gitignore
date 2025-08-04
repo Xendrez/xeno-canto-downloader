@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Cache and output directories
+xenocanto_cache/
+xeno-raw/
+
+# Logs
+*.log
+
+# CSV outputs
+fetch_summary.csv
+
+# Config with API key (if you want to keep it private)
+# config.py
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
