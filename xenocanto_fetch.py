@@ -38,7 +38,7 @@ class XenoCantoFetcher:
         
         # Setup logging
         logging.basicConfig(
-            level=logging.INFO,
+            level=logging.DEBUG,
             format='%(asctime)s - %(levelname)s - %(message)s',
             handlers=[
                 logging.FileHandler(LOG_FILE),
@@ -128,16 +128,19 @@ class XenoCantoFetcher:
             'page': page
         }
         
-        url = f"{BASE_URL}?{urlencode(params)}"
+        # Use requests to handle the parameters properly
+        self.logger.debug(f"Query string: {query}")
+        self.logger.debug(f"Parameters: {params}")
         
         for attempt in range(MAX_RETRIES):
             try:
                 # Rate limiting
                 time.sleep(REQUEST_DELAY)
                 
-                # Make request
-                response = self.session.get(url)
+                # Make request with params
+                response = self.session.get(BASE_URL, params=params)
                 self.total_api_calls += 1
+                self.logger.debug(f"Request URL: {response.url}")
                 
                 # Check response
                 if response.status_code == 200:
