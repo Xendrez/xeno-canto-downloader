@@ -343,657 +343,657 @@ birdId,birdName,scientificName,found_in_xenocanto,xenocanto_recordings
 342,Crested Honey Buzzard,Pernis ptilorhynchus,Yes,102
 343,African Harrier-Hawk,Polyboroides typus,Yes,28
 344,Bat Hawk,Macheiramphus alcinus,Yes,10
-345,Bearded Vulture,Gypaetus barbatus,Not searched,
-346,Egyptian Vulture,Neophron percnopterus,Not searched,
-347,Cape Vulture,Gyps coprotheres,Not searched,
-348,White-backed Vulture,Gyps africanus,Not searched,
-349,Rüppell's Vulture,Gyps rueppelli,Not searched,
-350,Hooded Vulture,Necrosyrtes monachus,Not searched,
-351,White-headed Vulture,Trigonoceps occipitalis,Not searched,
-352,Lappet-faced Vulture,Torgos tracheliotos,Not searched,
-353,Southern Banded Snake Eagle,Circaetus fasciolatus,Not searched,
-354,Western Banded Snake Eagle,Circaetus cinerascens,Not searched,
-355,Black-chested Snake Eagle,Circaetus pectoralis,Not searched,
-356,Brown Snake Eagle,Circaetus cinereus,Not searched,
-357,Bateleur,Terathopius ecaudatus,Not searched,
-358,Verreaux's Eagle,Aquila verreauxii,Not searched,
-359,Crowned Eagle,Stephanoaetus coronatus,Not searched,
-360,Martial Eagle,Polemaetus bellicosus,Not searched,
-361,Tawny Eagle,Aquila rapax,Not searched,
-362,Steppe Eagle,Aquila nipalensis,Not searched,
-363,Lesser Spotted Eagle,Clanga pomarina,Not searched,
-364,Wahlberg's Eagle,Hieraaetus wahlbergi,Not searched,
-365,Booted Eagle,Hieraaetus pennatus,Not searched,
-366,Ayres's Hawk-Eagle,Hieraaetus ayresii,Not searched,
-367,African Hawk-Eagle,Aquila spilogaster,Not searched,
-368,Long-crested Eagle,Lophaetus occipitalis,Not searched,
-369,Jackal Buzzard,Buteo rufofuscus,Not searched,
-370,Augur Buzzard,Buteo augur,Not searched,
-371,Forest Buzzard,Buteo trizonatus,Not searched,
-372,Common Buzzard,Buteo buteo,Not searched,
-373,Long-legged Buzzard,Buteo rufinus,Not searched,
-374,Red-necked Buzzard,Buteo auguralis,Not searched,
-375,Grasshopper Buzzard,Butastur rufipennis,Not searched,
-376,Black-winged Kite,Elanus caeruleus,Not searched,
-377,Black Kite,Milvus migrans,Not searched,
-378,Yellow-billed Kite,Milvus aegyptius,Not searched,
-379,African Marsh Harrier,Circus ranivorus,Not searched,
-380,Western Marsh Harrier,Circus aeruginosus,Not searched,
-381,Montagu's Harrier,Circus pygargus,Not searched,
-382,Pallid Harrier,Circus macrourus,Not searched,
-383,Black Harrier,Circus maurus,Not searched,
-384,African Cuckoo Hawk,Aviceda cuculoides,Not searched,
-385,Lizard Buzzard,Kaupifalco monogrammicus,Not searched,
-386,Dark Chanting Goshawk,Melierax metabates,Not searched,
-387,Pale Chanting Goshawk,Melierax canorus,Not searched,
-388,Gabar Goshawk,Micronisus gabar,Not searched,
-389,Ovambo Sparrowhawk,Accipiter ovampensis,Not searched,
-390,Shikra,Tachyspiza badia,Not searched,
-391,Little Sparrowhawk,Tachyspiza minulla,Not searched,
-392,African Goshawk,Aerospiza tachiro,Not searched,
-393,Rufous-breasted Sparrowhawk,Accipiter rufiventris,Not searched,
-394,Black Sparrowhawk,Astur melanoleucus,Not searched,
-395,Peregrine Falcon,Falco peregrinus,Not searched,
-396,Lanner Falcon,Falco biarmicus,Not searched,
-397,Eleonora's Falcon,Falco eleonorae,Not searched,
-398,Taita Falcon,Falco fasciinucha,Not searched,
-399,African Hobby,Falco cuvierii,Not searched,
-400,Eurasian Hobby,Falco subbuteo,Not searched,
-401,Amur Falcon,Falco amurensis,Not searched,
-402,Red-footed Falcon,Falco vespertinus,Not searched,
-403,Red-necked Falcon,Falco chicquera,Not searched,
-404,Sooty Falcon,Falco concolor,Not searched,
-405,Dickinson's Kestrel,Falco dickinsoni,Not searched,
-406,Grey Kestrel,Falco ardosiaceus,Not searched,
-407,Lesser Kestrel,Falco naumanni,Not searched,
-408,Rock Kestrel,Falco rupicolus,Not searched,
-409,Greater Kestrel,Falco rupicoloides,Not searched,
-410,Pygmy Falcon,Polihierax semitorquatus,Not searched,
-411,Western Barn Owl,Tyto alba,Not searched,
-412,African Grass Owl,Tyto capensis,Not searched,
-413,Marsh Owl,Asio capensis,Not searched,
-414,African Wood Owl,Strix woodfordii,Not searched,
-415,African Barred Owlet,Glaucidium capense,Not searched,
-416,Pearl-spotted Owlet,Glaucidium perlatum,Not searched,
-417,Southern White-faced Owl,Ptilopsis granti,Not searched,
-418,African Scops Owl,Otus senegalensis,Not searched,
-419,Spotted Eagle-Owl,Bubo africanus,Not searched,
-420,Cape Eagle-Owl,Bubo capensis,Not searched,
-421,Verreaux's Eagle-Owl,Ketupa lactea,Not searched,
-422,Pel's Fishing Owl,Scotopelia peli,Not searched,
-423,European Nightjar,Caprimulgus europaeus,Not searched,
-424,Rufous-cheeked Nightjar,Caprimulgus rufigena,Not searched,
-425,Fiery-necked Nightjar,Caprimulgus pectoralis,Not searched,
-426,Square-tailed Nightjar,Caprimulgus fossii,Not searched,
-427,Swamp Nightjar,Caprimulgus natalensis,Not searched,
-428,Freckled Nightjar,Caprimulgus tristigma,Not searched,
-429,Pennant-winged Nightjar,Caprimulgus vexillarius,Not searched,
-430,Rock Dove,Columba livia,Not searched,
-431,Speckled Pigeon,Columba guinea,Not searched,
-432,African Olive Pigeon,Columba arquatrix,Not searched,
-433,Eastern Bronze-naped Pigeon,Columba delegorguei,Not searched,
-434,Lemon Dove,Columba larvata,Not searched,
-435,Laughing Dove,Spilopelia senegalensis,Not searched,
-436,Cape Turtle Dove,Streptopelia capicola,Not searched,
-437,Red-eyed Dove,Streptopelia semitorquata,Not searched,
-438,African Mourning Dove,Streptopelia decipiens,Not searched,
-439,European Turtle Dove,Streptopelia turtur,Not searched,
-440,Emerald-spotted Wood Dove,Turtur chalcospilos,Not searched,
-441,Blue-spotted Wood Dove,Turtur afer,Not searched,
-442,Tambourine Dove,Turtur tympanistria,Not searched,
-443,Namaqua Dove,Oena capensis,Not searched,
-444,African Green Pigeon,Treron calvus,Not searched,
-445,Knysna Turaco,Tauraco corythaix,Not searched,
-446,Livingstone's Turaco,Tauraco livingstonii,Not searched,
-447,Schalow's Turaco,Tauraco schalowi,Not searched,
-448,Purple-crested Turaco,Gallirex porphyreolophus,Not searched,
-449,Ross's Turaco,Tauraco rossae,Not searched,
-450,Grey Go-away-bird,Crinifer concolor,Not searched,
-451,Burchell's Coucal,Centropus burchellii,Not searched,
-452,White-browed Coucal,Centropus superciliosus,Not searched,
-453,Senegal Coucal,Centropus senegalensis,Not searched,
-454,Coppery-tailed Coucal,Centropus cupreicaudus,Not searched,
-455,Black Coucal,Centropus grillii,Not searched,
-456,Green Malkoha,Ceuthmochares australis,Not searched,
-457,Red-chested Cuckoo,Cuculus solitarius,Not searched,
-458,African Cuckoo,Cuculus gularis,Not searched,
-459,Common Cuckoo,Cuculus canorus,Not searched,
-460,Lesser Cuckoo,Cuculus poliocephalus,Not searched,
-461,Madagascan Cuckoo,Cuculus rochii,Not searched,
-462,Black Cuckoo,Cuculus clamosus,Not searched,
-463,Barred Long-tailed Cuckoo,Cercococcyx montanus,Not searched,
-464,Thick-billed Cuckoo,Pachycoccyx audeberti,Not searched,
-465,Jacobin Cuckoo,Clamator jacobinus,Not searched,
-466,Levaillant's Cuckoo,Clamator levaillantii,Not searched,
-467,Great Spotted Cuckoo,Clamator glandarius,Not searched,
-468,Diederik Cuckoo,Chrysococcyx caprius,Not searched,
-469,Klaas's Cuckoo,Chrysococcyx klaas,Not searched,
-470,African Emerald Cuckoo,Chrysococcyx cupreus,Not searched,
-471,Lilac-breasted Roller,Coracias caudatus,Not searched,
-472,Racket-tailed Roller,Coracias spatulatus,Not searched,
-473,European Roller,Coracias garrulus,Not searched,
-474,Purple Roller,Coracias naevius,Not searched,
-475,Broad-billed Roller,Eurystomus glaucurus,Not searched,
-476,Giant Kingfisher,Megaceryle maxima,Not searched,
-477,Pied Kingfisher,Ceryle rudis,Not searched,
-478,Half-collared Kingfisher,Alcedo semitorquata,Not searched,
-479,Malachite Kingfisher,Corythornis cristatus,Not searched,
-480,African Pygmy Kingfisher,Ispidina picta,Not searched,
-481,Woodland Kingfisher,Halcyon senegalensis,Not searched,
-482,Mangrove Kingfisher,Halcyon senegaloides,Not searched,
-483,Brown-hooded Kingfisher,Halcyon albiventris,Not searched,
-484,Striped Kingfisher,Halcyon chelicuti,Not searched,
-485,Grey-headed Kingfisher,Halcyon leucocephala,Not searched,
-486,Swallow-tailed Bee-eater,Merops hirundineus,Not searched,
-487,Little Bee-eater,Merops pusillus,Not searched,
-488,Böhm's Bee-eater,Merops boehmi,Not searched,
-489,White-throated Bee-eater,Merops albicollis,Not searched,
-490,European Bee-eater,Merops apiaster,Not searched,
-491,Blue-cheeked Bee-eater,Merops persicus,Not searched,
-492,Olive Bee-eater,Merops superciliosus,Not searched,
-493,White-fronted Bee-eater,Merops bullockoides,Not searched,
-494,Southern Carmine Bee-eater,Merops nubicoides,Not searched,
-495,Northern Carmine Bee-eater,Merops nubicus,Not searched,
-496,Rosy Bee-eater,Merops malimbicus,Not searched,
-497,African Hoopoe,Upupa (epops) africana,Not searched,
-498,Green Wood Hoopoe,Phoeniculus purpureus,Not searched,
-499,Violet Wood Hoopoe,Phoeniculus damarensis,Not searched,
-500,Common Scimitarbill,Rhinopomastus cyanomelas,Not searched,
-501,Trumpeter Hornbill,Bycanistes bucinator,Not searched,
-502,Silvery-cheeked Hornbill,Bycanistes brevis,Not searched,
-503,Monteiro's Hornbill,Tockus monteiri,Not searched,
-504,Bradfield's Hornbill,Lophoceros bradfieldi,Not searched,
-505,Crowned Hornbill,Lophoceros alboterminatus,Not searched,
-506,African Grey Hornbill,Lophoceros nasutus,Not searched,
-507,Southern Yellow-billed Hornbill,Tockus leucomelas,Not searched,
-508,Southern Red-billed Hornbill,Tockus rufirostris,Not searched,
-509,Damara Red-billed Hornbill,Tockus damarensis,Not searched,
-510,Cape Parrot,Poicephalus robustus,Not searched,
-511,Grey-headed Parrot,Poicephalus fuscicollis,Not searched,
-512,Brown-headed Parrot,Poicephalus cryptoxanthus,Not searched,
-513,Meyer's Parrot,Poicephalus meyeri,Not searched,
-514,Rüppell's Parrot,Poicephalus rueppellii,Not searched,
-515,Rosy-faced Lovebird,Agapornis roseicollis,Not searched,
-516,Lilian's Lovebird,Agapornis lilianae,Not searched,
-517,Black-cheeked Lovebird,Agapornis nigrigenis,Not searched,
-518,Rose-ringed Parakeet,Psittacula krameri,Not searched,
-519,Narina Trogon,Apaloderma narina,Not searched,
-520,House Crow,Corvus splendens,Not searched,
-521,Cape Crow,Corvus capensis,Not searched,
-522,Pied Crow,Corvus albus,Not searched,
-523,White-necked Raven,Corvus albicollis,Not searched,
-524,African Black Swift,Apus barbatus,Not searched,
-525,Common Swift,Apus apus,Not searched,
-526,Bradfield's Swift,Apus bradfieldi,Not searched,
-527,Forbes-Watson's Swift,Apus berliozi,Not searched,
-528,Alpine Swift,Tachymarptis melba,Not searched,
-529,Mottled Swift,Tachymarptis aequatorialis,Not searched,
-530,Little Swift,Apus affinis,Not searched,
-531,Horus Swift,Apus horus,Not searched,
-532,White-rumped Swift,Apus caffer,Not searched,
-533,Scarce Swift,Schoutedenapus myoptilus,Not searched,
-534,African Palm Swift,Cypsiurus parvus,Not searched,
-535,Böhm's Spinetail,Neafrapus boehmi,Not searched,
-536,Mottled Spinetail,Telacanthura ussheri,Not searched,
-537,Black Saw-wing,Psalidoprocne pristoptera,Not searched,
-538,White-headed Saw-wing,Psalidoprocne albiceps,Not searched,
-539,Blue Swallow,Hirundo atrocaerulea,Not searched,
-540,Barn Swallow,Hirundo rustica,Not searched,
-541,Angolan Swallow,Hirundo angolensis,Not searched,
-542,White-throated Swallow,Hirundo albigularis,Not searched,
-543,Wire-tailed Swallow,Hirundo smithii,Not searched,
-544,Pearl-breasted Swallow,Hirundo dimidiata,Not searched,
-545,Common House Martin,Delichon urbicum,Not searched,
-546,Grey-rumped Swallow,Pseudhirundo griseopyga,Not searched,
-547,Lesser Striped Swallow,Cecropis abyssinica,Not searched,
-548,Greater Striped Swallow,Cecropis cucullata,Not searched,
-549,African Red-rumped Swallow,Cecropis melanocrissus,Not searched,
-550,Mosque Swallow,Cecropis senegalensis,Not searched,
-551,Red-breasted Swallow,Cecropis semirufa,Not searched,
-552,South African Cliff Swallow,Petrochelidon spilodera,Not searched,
-553,Mascarene Martin,Phedina borbonica,Not searched,
-554,Rock Martin,Ptyonoprogne fuligula,Not searched,
-555,Banded Martin,Neophedina cincta,Not searched,
-556,Sand Martin,Riparia riparia,Not searched,
-557,Brown-throated Martin,Riparia paludicola,Not searched,
-558,African Pitta,Pitta angolensis,Not searched,
-559,Common Myna,Acridotheres tristis,Not searched,
-560,Common Starling,Sturnus vulgaris,Not searched,
-561,Wattled Starling,Creatophora cinerea,Not searched,
-562,Rosy Starling,Pastor roseus,Not searched,
-563,Pied Starling,Lamprotornis bicolor,Not searched,
-564,Red-winged Starling,Onychognathus morio,Not searched,
-565,Pale-winged Starling,Onychognathus nabouroup,Not searched,
-566,Meves's Starling,Lamprotornis mevesii,Not searched,
-567,Burchell's Starling,Lamprotornis australis,Not searched,
-568,Cape Glossy Starling,Lamprotornis nitens,Not searched,
-569,Greater Blue-eared Starling,Lamprotornis chalybaeus,Not searched,
-570,Miombo Blue-eared Starling,Lamprotornis elisabeth,Not searched,
-571,Black-bellied Starling,Notopholia corusca,Not searched,
-572,Sharp-tailed Starling,Lamprotornis acuticaudus,Not searched,
-573,Violet-backed Starling,Cinnyricinclus leucogaster,Not searched,
-574,Arrow-marked Babbler,Turdoides jardineii,Not searched,
-575,Hartlaub's Babbler,Turdoides hartlaubii,Not searched,
-576,Black-faced Babbler,Turdoides melanops,Not searched,
-577,Southern Pied Babbler,Turdoides bicolor,Not searched,
-578,Bare-cheeked Babbler,Turdoides gymnogenys,Not searched,
-579,Groundscraper Thrush,Turdus litsitsirupa,Not searched,
-580,Spotted Ground Thrush,Geokichla guttata,Not searched,
-581,Orange Ground Thrush,Geokichla gurneyi,Not searched,
-582,Kurrichane Thrush,Turdus libonyana,Not searched,
-583,Karoo Thrush,Turdus smithi,Not searched,
-584,Olive Thrush,Turdus olivaceus,Not searched,
-585,Collared Palm Thrush,Cichladusa arquata,Not searched,
-586,Rufous-tailed Palm Thrush,Cichladusa ruficauda,Not searched,
-587,Cape Rock Thrush,Monticola rupestris,Not searched,
-588,Sentinel Rock Thrush,Monticola explorator,Not searched,
-589,Short-toed Rock Thrush,Monticola brevipes,Not searched,
-590,Miombo Rock Thrush,Monticola angolensis,Not searched,
-591,Cape Rockjumper,Chaetops frenatus,Not searched,
-592,Drakensberg Rockjumper,Chaetops aurantius,Not searched,
-593,Rockrunner,Achaetops pycnopygius,Not searched,
-594,Thrush Nightingale,Luscinia luscinia,Not searched,
-595,White-chested Alethe,Chamaetylas fuelleborni,Not searched,
-596,East Coast Akalat,Sheppardia gunningi,Not searched,
-597,White-starred Robin,Pogonocichla stellata,Not searched,
-598,Swynnerton's Robin,Swynnertonia swynnertoni,Not searched,
-599,Chorister Robin-Chat,Cossypha dichroa,Not searched,
-600,Red-capped Robin-Chat,Cossypha natalensis,Not searched,
-601,White-browed Robin-Chat,Cossypha heuglini,Not searched,
-602,Cape Robin-Chat,Dessonornis caffer,Not searched,
-603,White-throated Robin-Chat,Dessonornis humeralis,Not searched,
-604,Angolan Cave Chat,Xenocopsychus ansorgei,Not searched,
-605,White-browed Scrub Robin,Cercotrichas leucophrys,Not searched,
-606,Kalahari Scrub Robin,Cercotrichas paena,Not searched,
-607,Rufous-tailed Scrub Robin,Cercotrichas galactotes,Not searched,
-608,Karoo Scrub Robin,Tychaedon coryphoeus,Not searched,
-609,Brown Scrub Robin,Tychaedon signata,Not searched,
-610,Bearded Scrub Robin,Tychaedon quadrivirgata,Not searched,
-611,African Stonechat,Saxicola torquatus,Not searched,
-612,Whinchat,Saxicola rubetra,Not searched,
-613,Buff-streaked Chat,Campicoloides bifasciatus,Not searched,
-614,Capped Wheatear,Oenanthe pileata,Not searched,
-615,Northern Wheatear,Oenanthe oenanthe,Not searched,
-616,Isabelline Wheatear,Oenanthe isabellina,Not searched,
-617,Pied Wheatear,Oenanthe pleschanka,Not searched,
-618,Mountain Wheatear,Myrmecocichla monticola,Not searched,
-619,Arnot's Chat,Myrmecocichla arnotti,Not searched,
-620,Ant-eating Chat,Myrmecocichla formicivora,Not searched,
-621,Mocking Cliff Chat,Thamnolaea cinnamomeiventris,Not searched,
-622,Boulder Chat,Pinarornis plumosus,Not searched,
-623,Herero Chat,Namibornis herero,Not searched,
-624,Common Redstart,Phoenicurus phoenicurus,Not searched,
-625,Familiar Chat,Oenanthe familiaris,Not searched,
-626,Sickle-winged Chat,Emarginata sinuata,Not searched,
-627,Tractrac Chat,Emarginata tractrac,Not searched,
-628,Karoo Chat,Emarginata schlegelii,Not searched,
-629,White-throated Robin,Irania gutturalis,Not searched,
-630,Spike-heeled Lark,Chersomanes albofasciata,Not searched,
-631,Red-capped Lark,Calandrella cinerea,Not searched,
-632,Large-billed Lark,Galerida magnirostris,Not searched,
-633,Dusky Lark,Pinarocorys nigricans,Not searched,
-634,Cape Clapper Lark,Corypha apiata,Not searched,
-635,Eastern Clapper Lark,Corypha fasciolata,Not searched,
-636,Flappet Lark,Amirafra rufocinnamomea,Not searched,
-637,Melodious Lark,Mirafra cheniana,Not searched,
-638,Monotonous Lark,Mirafra passerina,Not searched,
-639,Rufous-naped Lark,Corypha africana,Not searched,
-640,Sabota Lark,Calendulauda sabota,Not searched,
-641,Fawn-coloured Lark,Calendulauda africanoides,Not searched,
-642,Karoo Lark,Calendulauda albescens,Not searched,
-643,Barlow's Lark,Calendulauda (erythrochlamys) barlowi,Not searched,
-644,Dune Lark,Calendulauda erythrochlamys,Not searched,
-645,Red Lark,Calendulauda burra,Not searched,
-646,Short-clawed Lark,Certhilauda chuana,Not searched,
-647,Eastern Long-billed Lark,Certhilauda semitorquata,Not searched,
-648,Karoo Long-billed Lark,Certhilauda subcoronata,Not searched,
-649,Benguela Long-billed Lark,Certhilauda (subcoronata) benguelensis,Not searched,
-650,Cape Long-billed Lark,Certhilauda curvirostris,Not searched,
-651,Agulhas Long-billed Lark,Certhilauda (curvirostris) brevirostris,Not searched,
-652,Rudd's Lark,Heteromirafra ruddi,Not searched,
-653,Botha's Lark,Spizocorys fringillaris,Not searched,
-654,Pink-billed Lark,Spizocorys conirostris,Not searched,
-655,Sclater's Lark,Spizocorys sclateri,Not searched,
-656,Stark's Lark,Spizocorys starki,Not searched,
-657,Gray's Lark,Ammomanopsis grayi,Not searched,
-658,Chestnut-backed Sparrow-Lark,Eremopterix leucotis,Not searched,
-659,Grey-backed Sparrow-Lark,Eremopterix verticalis,Not searched,
-660,Black-eared Sparrow-Lark,Eremopterix australis,Not searched,
-661,Short-tailed Pipit,Anthus brachyurus,Not searched,
-662,Bushveld Pipit,Anthus caffer,Not searched,
-663,Tree Pipit,Anthus trivialis,Not searched,
-664,Red-throated Pipit,Anthus cervinus,Not searched,
-665,African Pipit,Anthus cinnamomeus,Not searched,
-666,Mountain Pipit,Anthus hoeschi,Not searched,
-667,Nicholson's Pipit,Anthus nicholsoni,Not searched,
-668,Wood Pipit,Anthus nyassae,Not searched,
-669,Plain-backed Pipit,Anthus leucophrys,Not searched,
-670,Buffy Pipit,Anthus vaalensis,Not searched,
-671,African Rock Pipit,Anthus crenatus,Not searched,
-672,Striped Pipit,Anthus lineiventris,Not searched,
-673,Yellow-breasted Pipit,Anthus chloris,Not searched,
-674,Golden Pipit,Tmetothylacus tenellus,Not searched,
-675,Yellow-throated Longclaw,Macronyx croceus,Not searched,
-676,Cape Longclaw,Macronyx capensis,Not searched,
-677,Rosy-throated Longclaw,Macronyx ameliae,Not searched,
-678,African Pied Wagtail,Motacilla aguimp,Not searched,
-679,Cape Wagtail,Motacilla capensis,Not searched,
-680,Mountain Wagtail,Motacilla clara,Not searched,
-681,Grey Wagtail,Motacilla cinerea,Not searched,
-682,Citrine Wagtail,Motacilla citreola,Not searched,
-683,Western Yellow Wagtail,Motacilla flava,Not searched,
-684,White Wagtail,Motacilla alba,Not searched,
-685,Red-faced Mousebird,Urocolius indicus,Not searched,
-686,Speckled Mousebird,Colius striatus,Not searched,
-687,White-backed Mousebird,Colius colius,Not searched,
-688,Red-throated Wryneck,Jynx ruficollis,Not searched,
-689,Ground Woodpecker,Geocolaptes olivaceus,Not searched,
-690,Olive Woodpecker,Dendropicos griseocephalus,Not searched,
-691,Knysna Woodpecker,campethera notata,Not searched,
-692,Golden-tailed Woodpecker,Campethera abingoni,Not searched,
-693,Bennett's Woodpecker,Campethera bennettii,Not searched,
-694,Speckle-throated Woodpecker,Campethera scriptoricauda,Not searched,
-695,Green-backed Woodpecker,Campethera cailliautii,Not searched,
-696,Cardinal Woodpecker,Dendropicos fuscescens,Not searched,
-697,Bearded Woodpecker,Chloropicus namaquus,Not searched,
-698,Crested Barbet,Trachyphonus vaillantii,Not searched,
-699,Black-collared Barbet,Lybius torquatus,Not searched,
-700,Acacia Pied Barbet,Tricholaema leucomelas,Not searched,
-701,White-eared Barbet,Stactolaema leucotis,Not searched,
-702,Whyte's Barbet,Stactolaema whytii,Not searched,
-703,Green Barbet,Cryptolybia olivacea,Not searched,
-704,Green Tinkerbird,Pogoniulus simplex,Not searched,
-705,Red-fronted Tinkerbird,Pogoniulus pusillus,Not searched,
-706,Yellow-fronted Tinkerbird,Pogoniulus chrysoconus,Not searched,
-707,Yellow-rumped Tinkerbird,Pogoniulus bilineatus,Not searched,
-708,Greater Honeyguide,Indicator indicator,Not searched,
-709,Scaly-throated Honeyguide,Indicator variegatus,Not searched,
-710,Lesser Honeyguide,Indicator minor,Not searched,
-711,Pallid Honeyguide,Indicator meliphilus,Not searched,
-712,Brown-backed Honeybird,Prodotiscus regulus,Not searched,
-713,Green-backed Honeybird,Prodotiscus zambesiae,Not searched,
-714,African Broadbill,Smithornis capensis,Not searched,
-715,White-tailed Shrike,Lanioturdus torquatus,Not searched,
-716,Black-throated Wattle-eye,Platysteira peltata,Not searched,
-717,Woodward's Batis,Batis fratrum,Not searched,
-718,Cape Batis,Batis capensis,Not searched,
-719,Chinspot Batis,Batis molitor,Not searched,
-720,Pririt Batis,Batis pririt,Not searched,
-721,Pale Batis,Batis soror,Not searched,
-722,Southern Fiscal,Lanius collaris,Not searched,
-723,Lesser Grey Shrike,Lanius minor,Not searched,
-724,Red-backed Shrike,Lanius collurio,Not searched,
-725,Souza's Shrike,Lanius souzae,Not searched,
-726,Red-tailed Shrike,Lanius phoenicuroides,Not searched,
-727,Southern White-crowned Shrike,Eurocephalus anguitimens,Not searched,
-728,Magpie Shrike,Lanius melanoleucus,Not searched,
-729,Grey-headed Bushshrike,Malaconotus blanchoti,Not searched,
-730,Orange-breasted Bushshrike,Chlorophoneus sulfureopectus,Not searched,
-731,Olive Bushshrike,Chlorophoneus olivaceus,Not searched,
-732,Black-fronted Bushshrike,Chlorophoneus nigrifrons,Not searched,
-733,Gorgeous Bushshrike,Telophorus viridis,Not searched,
-734,Bokmakierie,Telophorus zeylonus,Not searched,
-735,Marsh Tchagra,Bocagia minuta,Not searched,
-736,Southern Tchagra,Tchagra tchagra,Not searched,
-737,Brown-crowned Tchagra,Tchagra australis,Not searched,
-738,Black-crowned Tchagra,Tchagra senegalus,Not searched,
-739,Southern Boubou,Laniarius ferrugineus,Not searched,
-740,Tropical Boubou,Laniarius major,Not searched,
-741,Swamp Boubou,Laniarius bicolor,Not searched,
-742,Crimson-breasted Shrike,Laniarius atrococcineus,Not searched,
-743,Black-backed Puffback,Dryoscopus cubla,Not searched,
-744,Brubru,Nilaus afer,Not searched,
-745,White-crested Helmetshrike,Prionops plumatus,Not searched,
-746,Retz's Helmetshrike,Prionops retzii,Not searched,
-747,Chestnut-fronted Helmetshrike,Prionops scopifrons,Not searched,
-748,Black-and-white Shrike-Flycatcher,Bias musicus,Not searched,
-749,Black Cuckooshrike,Campephaga flava,Not searched,
-750,Grey Cuckooshrike,Ceblepyris caesius,Not searched,
-751,White-breasted Cuckooshrike,Ceblepyris pectoralis,Not searched,
-752,Fork-tailed Drongo,Dicrurus adsimilis,Not searched,
-753,Square-tailed Drongo,Dicrurus ludwigii,Not searched,
-754,Black-headed Oriole,Oriolus larvatus,Not searched,
-755,Eurasian Golden Oriole,Oriolus oriolus,Not searched,
-756,African Golden Oriole,Oriolus auratus,Not searched,
-757,Green-headed Oriole,Oriolus chlorocephalus,Not searched,
-758,African Paradise Flycatcher,Terpsiphone viridis,Not searched,
-759,Blue-mantled Crested Flycatcher,Trochocercus cyanomelas,Not searched,
-760,White-tailed Crested Flycatcher,Elminia albonotata,Not searched,
-761,Fairy Flycatcher,Stenostira scita,Not searched,
-762,Livingstone's Flycatcher,Erythrocercus livingstonei,Not searched,
-763,Chat Flycatcher,Agricola infuscatus,Not searched,
-764,Marico Flycatcher,Bradornis mariquensis,Not searched,
-765,Pale Flycatcher,Agricola pallidus,Not searched,
-766,Spotted Flycatcher,Muscicapa striata,Not searched,
-767,African Dusky Flycatcher,Muscicapa adusta,Not searched,
-768,Ashy Flycatcher,Fraseria caerulescens,Not searched,
-769,Grey Tit-Flycatcher,Fraseria plumbea,Not searched,
-770,Southern Black Flycatcher,Melaenornis pammelaina,Not searched,
-771,Fiscal Flycatcher,Sigelus silens,Not searched,
-772,Collared Flycatcher,Ficedula albicollis,Not searched,
-773,European Pied Flycatcher,Ficedula hypoleuca,Not searched,
-774,Southern Hyliota,Hyliota australis,Not searched,
-775,Yellow-bellied Hyliota,Hyliota flavigaster,Not searched,
-776,Southern Black Tit,Melaniparus niger,Not searched,
-777,Carp's Tit,Melaniparus carpi,Not searched,
-778,Grey Tit,Melaniparus afer,Not searched,
-779,Ashy Tit,Melaniparus cinerascens,Not searched,
-780,Miombo Tit,Melaniparus griseiventris,Not searched,
-781,Cinnamon-breasted Tit,Melaniparus (rufiventris) pallidiventris,Not searched,
-782,Rufous-bellied Tit,Melaniparus rufiventris,Not searched,
-783,Cape Penduline Tit,Anthoscopus minutus,Not searched,
-784,Grey Penduline Tit,Anthoscopus caroli,Not searched,
-785,Dark-capped Bulbul,Pycnonotus barbatus,Not searched,
-786,African Red-eyed Bulbul,Pycnonotus nigricans,Not searched,
-787,Cape Bulbul,Pycnonotus capensis,Not searched,
-788,Terrestrial Brownbul,Phyllastrephus terrestris,Not searched,
-789,Yellow-bellied Greenbul,Chlorocichla flaviventris,Not searched,
-790,Sombre Greenbul,Andropadus importunus,Not searched,
-791,Stripe-cheeked Greenbul,Arizelocichla milanjensis,Not searched,
-792,Yellow-streaked Greenbul,Phyllastrephus flavostriatus,Not searched,
-793,Lowland Tiny Greenbul,Phyllastrephus debilis,Not searched,
-794,Yellow-throated Leaflove,Atimastillas flavigula,Not searched,
-795,Eastern Nicator,Nicator gularis,Not searched,
-796,Bush Blackcap,Sylvia nigricapillus,Not searched,
-797,Chestnut-vented Tit-babbler,Curruca subcoerulea,Not searched,
-798,Layard's Tit-babbler,Curruca layardi,Not searched,
-799,Common Whitethroat,Curruca communis,Not searched,
-800,Lesser Whitethroat,Curruca curruca,Not searched,
-801,Eurasian Blackcap,Sylvia atricapilla,Not searched,
-802,Garden Warbler,Sylvia borin,Not searched,
-803,Willow Warbler,Phylloscopus trochilus,Not searched,
-804,Green Warbler,Phylloscopus nitidus,Not searched,
-805,Yellow-throated Woodland Warbler,Phylloscopus ruficapilla,Not searched,
-806,Dark-capped Yellow Warbler,Iduna natalensis,Not searched,
-807,Icterine Warbler,Hippolais icterina,Not searched,
-808,Olive-tree Warbler,Hippolais olivetorum,Not searched,
-809,Upcher's Warbler,Hippolais languida,Not searched,
-810,Sedge Warbler,Acrocephalus schoenobaenus,Not searched,
-811,Marsh Warbler,Acrocephalus palustris,Not searched,
-813,Common Reed Warbler,Acrocephalus scirpaceus,Not searched,
-814,Lesser Swamp Warbler,Acrocephalus gracilirostris,Not searched,
-815,Greater Swamp Warbler,Acrocephalus rufescens,Not searched,
-816,Basra Reed Warbler,Acrocephalus griseldis,Not searched,
-817,Great Reed Warbler,Acrocephalus arundinaceus,Not searched,
-818,Little Rush Warbler,Bradypterus baboecala,Not searched,
-819,Barratt's Warbler,Bradypterus barratti,Not searched,
-820,Knysna Warbler,Bradypterus sylvaticus,Not searched,
-821,River Warbler,Locustella fluviatilis,Not searched,
-822,Broad-tailed Warbler,Catriscus brevirostris,Not searched,
-823,Cape Grassbird,Sphenoeacus afer,Not searched,
-824,Moustached Grass Warbler,Melocichla mentalis,Not searched,
-825,Victorin's Warbler,Cryptillas victorini,Not searched,
-826,Long-billed Crombec,Sylvietta rufescens,Not searched,
-827,Red-faced Crombec,Sylvietta whytii,Not searched,
-828,Red-capped Crombec,Sylvietta ruficapilla,Not searched,
-829,Neddicky,Cisticola fulvicapilla,Not searched,
-830,Short-winged Cisticola,Cisticola brachypterus,Not searched,
-831,Zitting Cisticola,Cisticola juncidis,Not searched,
-832,Desert Cisticola,Cisticola aridulus,Not searched,
-833,Cloud Cisticola,Cisticola textrix,Not searched,
-834,Wing-snapping Cisticola,Cisticola ayresii,Not searched,
-835,Pale-crowned Cisticola,Cisticola cinnamomeus,Not searched,
-836,Levaillant's Cisticola,Cisticola tinniens,Not searched,
-837,Rufous-winged Cisticola,Cisticola galactotes,Not searched,
-838,Luapula Cisticola,Cisticola luapula,Not searched,
-839,Chirping Cisticola,Cisticola pipiens,Not searched,
-840,Grey-backed Cisticola,Cisticola subruficapilla,Not searched,
-841,Wailing Cisticola,Cisticola lais,Not searched,
-842,Tinkling Cisticola,Cisticola rufilatus,Not searched,
-843,Rattling Cisticola,Cisticola chiniana,Not searched,
-844,Lazy Cisticola,Cisticola aberrans,Not searched,
-845,Red-faced Cisticola,Cisticola erythrops,Not searched,
-846,Singing Cisticola,Cisticola cantans,Not searched,
-847,Croaking Cisticola,Cisticola natalensis,Not searched,
-848,Tawny-flanked Prinia,Prinia subflava,Not searched,
-849,Black-chested Prinia,Prinia flavicans,Not searched,
-850,Drakensberg Prinia,Prinia hypoxantha,Not searched,
-851,Karoo Prinia,Prinia maculosa,Not searched,
-852,Namaqua Warbler,Phragmacia substriata,Not searched,
-853,Rufous-eared Warbler,Malcorus pectoralis,Not searched,
-854,Roberts's Warbler,Oreophilais robertsi,Not searched,
-855,Red-winged Warbler,Prinia erythroptera,Not searched,
-856,Cinnamon-breasted Warbler,Euryptila subcinnamomea,Not searched,
-857,Barred Wren-Warbler,Calamonastes fasciolatus,Not searched,
-858,Stierling's Wren-Warbler,Calamonastes stierlingi,Not searched,
-859,Green-backed Camaroptera,Camaroptera brachyura,Not searched,
-860,Grey-backed Camaroptera,Camaroptera brevicaudata,Not searched,
-861,Bar-throated Apalis,Apalis thoracica,Not searched,
-862,Rudd's Apalis,Apalis ruddi,Not searched,
-863,Yellow-breasted Apalis,Apalis flavida,Not searched,
-864,Chirinda Apalis,Apalis chirindensis,Not searched,
-865,Black-headed Apalis,Apalis melanocephala,Not searched,
-866,Yellow-bellied Eremomela,Eremomela icteropygialis,Not searched,
-867,Burnt-necked Eremomela,Eremomela usticollis,Not searched,
-868,Green-capped Eremomela,Eremomela scotops,Not searched,
-869,Karoo Eremomela,Eremomela gregalis,Not searched,
-870,Cape White-eye,Zosterops virens,Not searched,
-871,Orange River White-eye,Zosterops pallidus,Not searched,
-872,Southern Yellow White-eye,Zosterops anderssoni,Not searched,
-873,African Spotted Creeper,Salpornis salvadori,Not searched,
-874,Red-billed Oxpecker,Buphagus erythrorynchus,Not searched,
-875,Yellow-billed Oxpecker,Buphagus africanus,Not searched,
-876,Cape Sugarbird,Promerops cafer,Not searched,
-877,Gurney's Sugarbird,Promerops gurneyi,Not searched,
-878,Grey Sunbird,Cyanomitra veroxii,Not searched,
-879,Olive Sunbird,Cyanomitra olivacea,Not searched,
-880,Amethyst Sunbird,Chalcomitra amethystina,Not searched,
-881,Scarlet-chested Sunbird,Chalcomitra senegalensis,Not searched,
-882,Orange-breasted Sunbird,Anthobaphes violacea,Not searched,
-883,Malachite Sunbird,Nectarinia famosa,Not searched,
-884,Bronzy Sunbird,Nectarinia kilimensis,Not searched,
-885,Copper Sunbird,Cinnyris cupreus,Not searched,
-886,Greater Double-collared Sunbird,Cinnyris afer,Not searched,
-887,Southern Double-collared Sunbird,Cinnyris chalybeus,Not searched,
-888,Eastern Miombo Sunbird,Cinnyris manoensis,Not searched,
-889,Marico Sunbird,Cinnyris mariquensis,Not searched,
-890,Purple-banded Sunbird,Cinnyris bifasciatus,Not searched,
-891,Neergaard's Sunbird,Cinnyris neergaardi,Not searched,
-892,Shelley's Sunbird,Cinnyris shelleyi,Not searched,
-893,Dusky Sunbird,Cinnyris fuscus,Not searched,
-894,White-bellied Sunbird,Cinnyris talatala,Not searched,
-895,Variable Sunbird,Cinnyris venustus,Not searched,
-896,Collared Sunbird,Hedydipna collaris,Not searched,
-897,Plain-backed Sunbird,Anthreptes reichenowi,Not searched,
-898,Western Violet-backed Sunbird,Anthreptes longuemarei,Not searched,
-899,House Sparrow,Passer domesticus,Not searched,
-900,Cape Sparrow,Passer melanurus,Not searched,
-901,Great Sparrow,Passer motitensis,Not searched,
-902,Southern Grey-headed Sparrow,Passer diffusus,Not searched,
-903,Northern Grey-headed Sparrow,Passer griseus,Not searched,
-904,Yellow-throated Bush Sparrow,Gymnoris superciliaris,Not searched,
-905,White-browed Sparrow-Weaver,Plocepasser mahali,Not searched,
-906,Sociable Weaver,Philetairus socius,Not searched,
-907,Scaly-feathered Finch,Sporopipes squamifrons,Not searched,
-908,Red-billed Buffalo Weaver,Bubalornis niger,Not searched,
-909,Thick-billed Weaver,Amblyospiza albifrons,Not searched,
-910,Village Weaver,Ploceus cucullatus,Not searched,
-911,Southern Masked Weaver,Ploceus velatus,Not searched,
-912,Lesser Masked Weaver,Ploceus intermedius,Not searched,
-913,Spectacled Weaver,Ploceus ocularis,Not searched,
-914,Yellow Weaver,Ploceus subaureus,Not searched,
-915,African Golden Weaver,Ploceus xanthops,Not searched,
-916,Southern Brown-throated Weaver,Ploceus xanthopterus,Not searched,
-917,Cape Weaver,Ploceus capensis,Not searched,
-918,Chestnut Weaver,Ploceus rubiginosus,Not searched,
-919,Dark-backed Weaver,Ploceus bicolor,Not searched,
-920,Olive-headed Weaver,Ploceus olivaceiceps,Not searched,
-921,Red-headed Weaver,Anaplectes rubriceps,Not searched,
-922,Long-tailed Widowbird,Euplectes progne,Not searched,
-923,Red-collared Widowbird,Euplectes ardens,Not searched,
-924,Fan-tailed Widowbird,Euplectes axillaris,Not searched,
-925,Yellow-mantled Widowbird,Euplectes macroura,Not searched,
-926,White-winged Widowbird,Euplectes albonotatus,Not searched,
-927,Yellow Bishop,Euplectes capensis,Not searched,
-928,Yellow-crowned Bishop,Euplectes afer,Not searched,
-929,Southern Red Bishop,Euplectes orix,Not searched,
-930,Black-winged Bishop,Euplectes hordeaceus,Not searched,
-931,Red-billed Quelea,Quelea quelea,Not searched,
-932,Red-headed Quelea,Quelea erythrops,Not searched,
-933,Cardinal Quelea,Quelea cardinalis,Not searched,
-934,Pin-tailed Whydah,Vidua macroura,Not searched,
-935,Shaft-tailed Whydah,Vidua regia,Not searched,
-936,Long-tailed Paradise Whydah,Vidua paradisaea,Not searched,
-937,Broad-tailed Paradise Whydah,Vidua obtusa,Not searched,
-938,Dusky Indigobird,Vidua funerea,Not searched,
-939,Purple Indigobird,Vidua purpurascens,Not searched,
-940,Village Indigobird,Vidua chalybeata,Not searched,
-941,Zambezi Indigobird,Vidua codringtoni,Not searched,
-942,Cuckoo Finch,Anomalospiza imberbis,Not searched,
-943,Red-headed Finch,Amadina erythrocephala,Not searched,
-944,Cut-throat Finch,Amadina fasciata,Not searched,
-945,Quailfinch,Ortygospiza atricollis,Not searched,
-946,Locust Finch,Paludipasser locustella,Not searched,
-947,African Firefinch,Lagonosticta rubricata,Not searched,
-948,Jameson's Firefinch,Lagonosticta rhodopareia,Not searched,
-949,Red-billed Firefinch,Lagonosticta senegala,Not searched,
-950,Brown Firefinch,Lagonosticta nitidula,Not searched,
-951,Red-faced Crimsonwing,Cryptospiza reichenovii,Not searched,
-952,Lesser Seedcracker,Pyrenestes minor,Not searched,
-953,Red-throated Twinspot,Hypargos niveoguttatus,Not searched,
-954,Pink-throated Twinspot,Hypargos margaritatus,Not searched,
-955,Green Twinspot,Mandingoa nitidula,Not searched,
-956,Green-winged Pytilia,Pytilia melba,Not searched,
-957,Orange-winged Pytilia,Pytilia afra,Not searched,
-958,Orange-breasted Waxbill,Amandava subflava,Not searched,
-959,Swee Waxbill,Coccopygia melanotis,Not searched,
-960,Angolan Waxbill,Coccopygia bocagei,Not searched,
-961,Yellow-bellied Waxbill,Coccopygia quartinia,Not searched,
-962,Blue Waxbill,Uraeginthus angolensis,Not searched,
-963,Violet-eared Waxbill,Granatina granatina,Not searched,
-964,Common Waxbill,Estrilda astrild,Not searched,
-965,Black-faced Waxbill,Brunhilda erythronotos,Not searched,
-966,Grey Waxbill,Glaucestrilda perreini,Not searched,
-967,Cinderella Waxbill,Glaucestrilda thomensis,Not searched,
-968,Bronze Mannikin,Spermestes cucullata,Not searched,
-969,Red-backed Mannikin,Spermestes nigriceps,Not searched,
-970,Magpie Mannikin,Spermestes fringilloides,Not searched,
-971,Black-headed Canary,Serinus alario,Not searched,
-972,Cape Canary,Serinus canicollis,Not searched,
-973,Forest Canary,Crithagra scotops,Not searched,
-974,Brimstone Canary,Crithagra sulphurata,Not searched,
-975,Yellow Canary,Crithagra flaviventris,Not searched,
-976,Yellow-fronted Canary,Crithagra mozambica,Not searched,
-977,Black-throated Canary,Crithagra atrogularis,Not searched,
-978,Lemon-breasted Canary,Crithagra citrinipectus,Not searched,
-979,Cape Siskin,Crithagra totta,Not searched,
-980,Drakensberg Siskin,Crithagra symonsi,Not searched,
-981,Protea Canary,Crithagra leucoptera,Not searched,
-982,White-throated Canary,Crithagra albogularis,Not searched,
-983,Streaky-headed Seedeater,Crithagra gularis,Not searched,
-984,Black-eared Seedeater,Crithagra mennelli,Not searched,
-985,Common Chaffinch,Fringilla coelebs,Not searched,
-986,Lark-like Bunting,Emberiza impetuani,Not searched,
-987,Cape Bunting,Emberiza capensis,Not searched,
-988,Cinnamon-breasted Bunting,Emberiza tahapisi,Not searched,
-989,Golden-breasted Bunting,Emberiza flaviventris,Not searched,
-990,Cabanis's Bunting,Emberiza cabanisi,Not searched,
-991,Ortolan Bunting,Emberiza hortulana,Not searched,
-992,Laughing Gull,Leucophaeus atricilla,Not searched,
-993,Wood Warbler,Phylloscopus sibilatrix,Not searched,
-994,Christmas Island Frigatebird,Fregata andrewsi,Not searched,
-995,Mascarene Petrel,Pseudobulweria aterrima,Not searched,
-996,Pincoya Storm Petrel,Oceanites pincoyae,Not searched,
-997,Woodchat Shrike,Lanius senator,Not searched,
-998,Dimorphic Egret,Egretta (garzetta) dimorpha,Not searched,
-999,European Red-rumped Swallow,Cecropis rufula,Not searched,
+345,Bearded Vulture,Gypaetus barbatus,Yes,39
+346,Egyptian Vulture,Neophron percnopterus,Yes,8
+347,Cape Vulture,Gyps coprotheres,Yes,1
+348,White-backed Vulture,Gyps africanus,Yes,6
+349,Rüppell's Vulture,Gyps rueppelli,Yes,7
+350,Hooded Vulture,Necrosyrtes monachus,Yes,2
+351,White-headed Vulture,Trigonoceps occipitalis,Yes,0
+352,Lappet-faced Vulture,Torgos tracheliotos,Yes,0
+353,Southern Banded Snake Eagle,Circaetus fasciolatus,Yes,5
+354,Western Banded Snake Eagle,Circaetus cinerascens,Yes,6
+355,Black-chested Snake Eagle,Circaetus pectoralis,Yes,1
+356,Brown Snake Eagle,Circaetus cinereus,Yes,2
+357,Bateleur,Terathopius ecaudatus,Yes,3
+358,Verreaux's Eagle,Aquila verreauxii,Yes,5
+359,Crowned Eagle,Stephanoaetus coronatus,Yes,65
+360,Martial Eagle,Polemaetus bellicosus,Yes,7
+361,Tawny Eagle,Aquila rapax,Yes,2
+362,Steppe Eagle,Aquila nipalensis,Yes,15
+363,Lesser Spotted Eagle,Clanga pomarina,Yes,80
+364,Wahlberg's Eagle,Hieraaetus wahlbergi,Yes,7
+365,Booted Eagle,Hieraaetus pennatus,Yes,74
+366,Ayres's Hawk-Eagle,Hieraaetus ayresii,Yes,3
+367,African Hawk-Eagle,Aquila spilogaster,Yes,3
+368,Long-crested Eagle,Lophaetus occipitalis,Yes,33
+369,Jackal Buzzard,Buteo rufofuscus,Yes,10
+370,Augur Buzzard,Buteo augur,Yes,24
+371,Forest Buzzard,Buteo trizonatus,Yes,8
+372,Common Buzzard,Buteo buteo,Yes,1194
+373,Long-legged Buzzard,Buteo rufinus,Yes,26
+374,Red-necked Buzzard,Buteo auguralis,Yes,2
+375,Grasshopper Buzzard,Butastur rufipennis,Yes,3
+376,Black-winged Kite,Elanus caeruleus,Yes,282
+377,Black Kite,Milvus migrans,Yes,293
+378,Yellow-billed Kite,Milvus aegyptius,Yes,52
+379,African Marsh Harrier,Circus ranivorus,Yes,1
+380,Western Marsh Harrier,Circus aeruginosus,Yes,427
+381,Montagu's Harrier,Circus pygargus,Yes,139
+382,Pallid Harrier,Circus macrourus,Yes,24
+383,Black Harrier,Circus maurus,Yes,3
+384,African Cuckoo Hawk,Aviceda cuculoides,Yes,11
+385,Lizard Buzzard,Kaupifalco monogrammicus,Yes,50
+386,Dark Chanting Goshawk,Melierax metabates,Yes,9
+387,Pale Chanting Goshawk,Melierax canorus,Yes,15
+388,Gabar Goshawk,Micronisus gabar,Yes,49
+389,Ovambo Sparrowhawk,Accipiter ovampensis,Yes,9
+390,Shikra,Tachyspiza badia,Yes,0
+391,Little Sparrowhawk,Tachyspiza minulla,Yes,0
+392,African Goshawk,Aerospiza tachiro,Yes,0
+393,Rufous-breasted Sparrowhawk,Accipiter rufiventris,Yes,3
+394,Black Sparrowhawk,Astur melanoleucus,Yes,0
+395,Peregrine Falcon,Falco peregrinus,Yes,513
+396,Lanner Falcon,Falco biarmicus,Yes,12
+397,Eleonora's Falcon,Falco eleonorae,Yes,24
+398,Taita Falcon,Falco fasciinucha,Yes,3
+399,African Hobby,Falco cuvierii,Yes,3
+400,Eurasian Hobby,Falco subbuteo,Yes,325
+401,Amur Falcon,Falco amurensis,Yes,33
+402,Red-footed Falcon,Falco vespertinus,Yes,63
+403,Red-necked Falcon,Falco chicquera,Yes,5
+404,Sooty Falcon,Falco concolor,Yes,18
+405,Dickinson's Kestrel,Falco dickinsoni,Yes,2
+406,Grey Kestrel,Falco ardosiaceus,Yes,3
+407,Lesser Kestrel,Falco naumanni,Yes,192
+408,Rock Kestrel,Falco rupicolus,Yes,6
+409,Greater Kestrel,Falco rupicoloides,Yes,7
+410,Pygmy Falcon,Polihierax semitorquatus,Yes,4
+411,Western Barn Owl,Tyto alba,Yes,1548
+412,African Grass Owl,Tyto capensis,Yes,2
+413,Marsh Owl,Asio capensis,Yes,18
+414,African Wood Owl,Strix woodfordii,Yes,180
+415,African Barred Owlet,Glaucidium capense,Yes,63
+416,Pearl-spotted Owlet,Glaucidium perlatum,Yes,105
+417,Southern White-faced Owl,Ptilopsis granti,Yes,22
+418,African Scops Owl,Otus senegalensis,Yes,121
+419,Spotted Eagle-Owl,Bubo africanus,Yes,62
+420,Cape Eagle-Owl,Bubo capensis,Yes,8
+421,Verreaux's Eagle-Owl,Ketupa lactea,Yes,0
+422,Pel's Fishing Owl,Scotopelia peli,Yes,25
+423,European Nightjar,Caprimulgus europaeus,Yes,1589
+424,Rufous-cheeked Nightjar,Caprimulgus rufigena,Yes,38
+425,Fiery-necked Nightjar,Caprimulgus pectoralis,Yes,128
+426,Square-tailed Nightjar,Caprimulgus fossii,Yes,35
+427,Swamp Nightjar,Caprimulgus natalensis,Yes,31
+428,Freckled Nightjar,Caprimulgus tristigma,Yes,60
+429,Pennant-winged Nightjar,Caprimulgus vexillarius,Yes,10
+430,Rock Dove,Columba livia,Yes,268
+431,Speckled Pigeon,Columba guinea,Yes,64
+432,African Olive Pigeon,Columba arquatrix,Yes,24
+433,Eastern Bronze-naped Pigeon,Columba delegorguei,Yes,58
+434,Lemon Dove,Columba larvata,Yes,37
+435,Laughing Dove,Spilopelia senegalensis,Yes,184
+436,Cape Turtle Dove,Streptopelia capicola,Yes,235
+437,Red-eyed Dove,Streptopelia semitorquata,Yes,162
+438,African Mourning Dove,Streptopelia decipiens,Yes,115
+439,European Turtle Dove,Streptopelia turtur,Yes,500
+440,Emerald-spotted Wood Dove,Turtur chalcospilos,Yes,126
+441,Blue-spotted Wood Dove,Turtur afer,Yes,49
+442,Tambourine Dove,Turtur tympanistria,Yes,143
+443,Namaqua Dove,Oena capensis,Yes,42
+444,African Green Pigeon,Treron calvus,Yes,50
+445,Knysna Turaco,Tauraco corythaix,Yes,35
+446,Livingstone's Turaco,Tauraco livingstonii,Yes,211
+447,Schalow's Turaco,Tauraco schalowi,Yes,61
+448,Purple-crested Turaco,Gallirex porphyreolophus,Yes,80
+449,Ross's Turaco,Tauraco rossae,Yes,36
+450,Grey Go-away-bird,Crinifer concolor,Yes,77
+451,Burchell's Coucal,Centropus burchellii,Yes,58
+452,White-browed Coucal,Centropus superciliosus,Yes,96
+453,Senegal Coucal,Centropus senegalensis,Yes,63
+454,Coppery-tailed Coucal,Centropus cupreicaudus,Yes,11
+455,Black Coucal,Centropus grillii,Yes,12
+456,Green Malkoha,Ceuthmochares australis,Yes,36
+457,Red-chested Cuckoo,Cuculus solitarius,Yes,202
+458,African Cuckoo,Cuculus gularis,Yes,27
+459,Common Cuckoo,Cuculus canorus,Yes,2303
+460,Lesser Cuckoo,Cuculus poliocephalus,Yes,110
+461,Madagascan Cuckoo,Cuculus rochii,Yes,75
+462,Black Cuckoo,Cuculus clamosus,Yes,133
+463,Barred Long-tailed Cuckoo,Cercococcyx montanus,Yes,110
+464,Thick-billed Cuckoo,Pachycoccyx audeberti,Yes,11
+465,Jacobin Cuckoo,Clamator jacobinus,Yes,66
+466,Levaillant's Cuckoo,Clamator levaillantii,Yes,35
+467,Great Spotted Cuckoo,Clamator glandarius,Yes,323
+468,Diederik Cuckoo,Chrysococcyx caprius,Yes,138
+469,Klaas's Cuckoo,Chrysococcyx klaas,Yes,87
+470,African Emerald Cuckoo,Chrysococcyx cupreus,Yes,142
+471,Lilac-breasted Roller,Coracias caudatus,Yes,66
+472,Racket-tailed Roller,Coracias spatulatus,Yes,13
+473,European Roller,Coracias garrulus,Yes,148
+474,Purple Roller,Coracias naevius,Yes,12
+475,Broad-billed Roller,Eurystomus glaucurus,Yes,90
+476,Giant Kingfisher,Megaceryle maxima,Yes,31
+477,Pied Kingfisher,Ceryle rudis,Yes,194
+478,Half-collared Kingfisher,Alcedo semitorquata,Yes,15
+479,Malachite Kingfisher,Corythornis cristatus,Yes,31
+480,African Pygmy Kingfisher,Ispidina picta,Yes,44
+481,Woodland Kingfisher,Halcyon senegalensis,Yes,131
+482,Mangrove Kingfisher,Halcyon senegaloides,Yes,19
+483,Brown-hooded Kingfisher,Halcyon albiventris,Yes,89
+484,Striped Kingfisher,Halcyon chelicuti,Yes,53
+485,Grey-headed Kingfisher,Halcyon leucocephala,Yes,82
+486,Swallow-tailed Bee-eater,Merops hirundineus,Yes,15
+487,Little Bee-eater,Merops pusillus,Yes,61
+488,Böhm's Bee-eater,Merops boehmi,Yes,19
+489,White-throated Bee-eater,Merops albicollis,Yes,49
+490,European Bee-eater,Merops apiaster,Yes,791
+491,Blue-cheeked Bee-eater,Merops persicus,Yes,178
+492,Olive Bee-eater,Merops superciliosus,Yes,47
+493,White-fronted Bee-eater,Merops bullockoides,Yes,82
+494,Southern Carmine Bee-eater,Merops nubicoides,Yes,15
+495,Northern Carmine Bee-eater,Merops nubicus,Yes,15
+496,Rosy Bee-eater,Merops malimbicus,Yes,17
+497,African Hoopoe,Upupa (epops) africana,Yes,0
+498,Green Wood Hoopoe,Phoeniculus purpureus,Yes,171
+499,Violet Wood Hoopoe,Phoeniculus damarensis,Yes,7
+500,Common Scimitarbill,Rhinopomastus cyanomelas,Yes,77
+501,Trumpeter Hornbill,Bycanistes bucinator,Yes,48
+502,Silvery-cheeked Hornbill,Bycanistes brevis,Yes,73
+503,Monteiro's Hornbill,Tockus monteiri,Yes,3
+504,Bradfield's Hornbill,Lophoceros bradfieldi,Yes,10
+505,Crowned Hornbill,Lophoceros alboterminatus,Yes,76
+506,African Grey Hornbill,Lophoceros nasutus,Yes,153
+507,Southern Yellow-billed Hornbill,Tockus leucomelas,Yes,35
+508,Southern Red-billed Hornbill,Tockus rufirostris,Yes,23
+509,Damara Red-billed Hornbill,Tockus damarensis,Yes,9
+510,Cape Parrot,Poicephalus robustus,Yes,16
+511,Grey-headed Parrot,Poicephalus fuscicollis,Yes,34
+512,Brown-headed Parrot,Poicephalus cryptoxanthus,Yes,34
+513,Meyer's Parrot,Poicephalus meyeri,Yes,65
+514,Rüppell's Parrot,Poicephalus rueppellii,Yes,9
+515,Rosy-faced Lovebird,Agapornis roseicollis,Yes,56
+516,Lilian's Lovebird,Agapornis lilianae,Yes,8
+517,Black-cheeked Lovebird,Agapornis nigrigenis,Yes,6
+518,Rose-ringed Parakeet,Psittacula krameri,Yes,614
+519,Narina Trogon,Apaloderma narina,Yes,98
+520,House Crow,Corvus splendens,Yes,212
+521,Cape Crow,Corvus capensis,Yes,43
+522,Pied Crow,Corvus albus,Yes,175
+523,White-necked Raven,Corvus albicollis,Yes,57
+524,African Black Swift,Apus barbatus,Yes,18
+525,Common Swift,Apus apus,Yes,906
+526,Bradfield's Swift,Apus bradfieldi,Yes,5
+527,Forbes-Watson's Swift,Apus berliozi,Yes,8
+528,Alpine Swift,Tachymarptis melba,Yes,234
+529,Mottled Swift,Tachymarptis aequatorialis,Yes,3
+530,Little Swift,Apus affinis,Yes,127
+531,Horus Swift,Apus horus,Yes,5
+532,White-rumped Swift,Apus caffer,Yes,94
+533,Scarce Swift,Schoutedenapus myoptilus,Yes,15
+534,African Palm Swift,Cypsiurus parvus,Yes,47
+535,Böhm's Spinetail,Neafrapus boehmi,Yes,1
+536,Mottled Spinetail,Telacanthura ussheri,Yes,6
+537,Black Saw-wing,Psalidoprocne pristoptera,Yes,25
+538,White-headed Saw-wing,Psalidoprocne albiceps,Yes,1
+539,Blue Swallow,Hirundo atrocaerulea,Yes,15
+540,Barn Swallow,Hirundo rustica,Yes,1994
+541,Angolan Swallow,Hirundo angolensis,Yes,20
+542,White-throated Swallow,Hirundo albigularis,Yes,22
+543,Wire-tailed Swallow,Hirundo smithii,Yes,20
+544,Pearl-breasted Swallow,Hirundo dimidiata,Yes,11
+545,Common House Martin,Delichon urbicum,Yes,808
+546,Grey-rumped Swallow,Pseudhirundo griseopyga,Yes,14
+547,Lesser Striped Swallow,Cecropis abyssinica,Yes,92
+548,Greater Striped Swallow,Cecropis cucullata,Yes,34
+549,African Red-rumped Swallow,Cecropis melanocrissus,Yes,0
+550,Mosque Swallow,Cecropis senegalensis,Yes,13
+551,Red-breasted Swallow,Cecropis semirufa,Yes,39
+552,South African Cliff Swallow,Petrochelidon spilodera,Yes,48
+553,Mascarene Martin,Phedina borbonica,Yes,32
+554,Rock Martin,Ptyonoprogne fuligula,Yes,28
+555,Banded Martin,Neophedina cincta,Yes,20
+556,Sand Martin,Riparia riparia,Yes,424
+557,Brown-throated Martin,Riparia paludicola,Yes,32
+558,African Pitta,Pitta angolensis,Yes,16
+559,Common Myna,Acridotheres tristis,Yes,354
+560,Common Starling,Sturnus vulgaris,Yes,2105
+561,Wattled Starling,Creatophora cinerea,Yes,37
+562,Rosy Starling,Pastor roseus,Yes,118
+563,Pied Starling,Lamprotornis bicolor,Yes,19
+564,Red-winged Starling,Onychognathus morio,Yes,49
+565,Pale-winged Starling,Onychognathus nabouroup,Yes,32
+566,Meves's Starling,Lamprotornis mevesii,Yes,38
+567,Burchell's Starling,Lamprotornis australis,Yes,57
+568,Cape Glossy Starling,Lamprotornis nitens,Yes,52
+569,Greater Blue-eared Starling,Lamprotornis chalybaeus,Yes,84
+570,Miombo Blue-eared Starling,Lamprotornis elisabeth,Yes,19
+571,Black-bellied Starling,Notopholia corusca,Yes,62
+572,Sharp-tailed Starling,Lamprotornis acuticaudus,Yes,8
+573,Violet-backed Starling,Cinnyricinclus leucogaster,Yes,41
+574,Arrow-marked Babbler,Turdoides jardineii,Yes,116
+575,Hartlaub's Babbler,Turdoides hartlaubii,Yes,31
+576,Black-faced Babbler,Turdoides melanops,Yes,2
+577,Southern Pied Babbler,Turdoides bicolor,Yes,10
+578,Bare-cheeked Babbler,Turdoides gymnogenys,Yes,6
+579,Groundscraper Thrush,Turdus litsitsirupa,Yes,26
+580,Spotted Ground Thrush,Geokichla guttata,Yes,23
+581,Orange Ground Thrush,Geokichla gurneyi,Yes,93
+582,Kurrichane Thrush,Turdus libonyana,Yes,84
+583,Karoo Thrush,Turdus smithi,Yes,53
+584,Olive Thrush,Turdus olivaceus,Yes,56
+585,Collared Palm Thrush,Cichladusa arquata,Yes,39
+586,Rufous-tailed Palm Thrush,Cichladusa ruficauda,Yes,13
+587,Cape Rock Thrush,Monticola rupestris,Yes,47
+588,Sentinel Rock Thrush,Monticola explorator,Yes,6
+589,Short-toed Rock Thrush,Monticola brevipes,Yes,3
+590,Miombo Rock Thrush,Monticola angolensis,Yes,16
+591,Cape Rockjumper,Chaetops frenatus,Yes,15
+592,Drakensberg Rockjumper,Chaetops aurantius,Yes,7
+593,Rockrunner,Achaetops pycnopygius,Yes,18
+594,Thrush Nightingale,Luscinia luscinia,Yes,1032
+595,White-chested Alethe,Chamaetylas fuelleborni,Yes,37
+596,East Coast Akalat,Sheppardia gunningi,Yes,30
+597,White-starred Robin,Pogonocichla stellata,Yes,78
+598,Swynnerton's Robin,Swynnertonia swynnertoni,Yes,66
+599,Chorister Robin-Chat,Cossypha dichroa,Yes,69
+600,Red-capped Robin-Chat,Cossypha natalensis,Yes,108
+601,White-browed Robin-Chat,Cossypha heuglini,Yes,284
+602,Cape Robin-Chat,Dessonornis caffer,Yes,0
+603,White-throated Robin-Chat,Dessonornis humeralis,Yes,0
+604,Angolan Cave Chat,Xenocopsychus ansorgei,Yes,0
+605,White-browed Scrub Robin,Cercotrichas leucophrys,Yes,494
+606,Kalahari Scrub Robin,Cercotrichas paena,Yes,64
+607,Rufous-tailed Scrub Robin,Cercotrichas galactotes,Yes,241
+608,Karoo Scrub Robin,Tychaedon coryphoeus,Yes,0
+609,Brown Scrub Robin,Tychaedon signata,Yes,0
+610,Bearded Scrub Robin,Tychaedon quadrivirgata,Yes,0
+611,African Stonechat,Saxicola torquatus,Yes,97
+612,Whinchat,Saxicola rubetra,Yes,700
+613,Buff-streaked Chat,Campicoloides bifasciatus,Yes,13
+614,Capped Wheatear,Oenanthe pileata,Yes,39
+615,Northern Wheatear,Oenanthe oenanthe,Yes,605
+616,Isabelline Wheatear,Oenanthe isabellina,Yes,168
+617,Pied Wheatear,Oenanthe pleschanka,Yes,93
+618,Mountain Wheatear,Myrmecocichla monticola,Yes,26
+619,Arnot's Chat,Myrmecocichla arnotti,Yes,35
+620,Ant-eating Chat,Myrmecocichla formicivora,Yes,61
+621,Mocking Cliff Chat,Thamnolaea cinnamomeiventris,Yes,71
+622,Boulder Chat,Pinarornis plumosus,Yes,13
+623,Herero Chat,Namibornis herero,Yes,4
+624,Common Redstart,Phoenicurus phoenicurus,Yes,1839
+625,Familiar Chat,Oenanthe familiaris,Yes,38
+626,Sickle-winged Chat,Emarginata sinuata,Yes,18
+627,Tractrac Chat,Emarginata tractrac,Yes,6
+628,Karoo Chat,Emarginata schlegelii,Yes,12
+629,White-throated Robin,Irania gutturalis,Yes,44
+630,Spike-heeled Lark,Chersomanes albofasciata,Yes,29
+631,Red-capped Lark,Calandrella cinerea,Yes,81
+632,Large-billed Lark,Galerida magnirostris,Yes,69
+633,Dusky Lark,Pinarocorys nigricans,Yes,2
+634,Cape Clapper Lark,Corypha apiata,Yes,0
+635,Eastern Clapper Lark,Corypha fasciolata,Yes,0
+636,Flappet Lark,Amirafra rufocinnamomea,Yes,0
+637,Melodious Lark,Mirafra cheniana,Yes,109
+638,Monotonous Lark,Mirafra passerina,Yes,37
+639,Rufous-naped Lark,Corypha africana,Yes,0
+640,Sabota Lark,Calendulauda sabota,Yes,107
+641,Fawn-coloured Lark,Calendulauda africanoides,Yes,34
+642,Karoo Lark,Calendulauda albescens,Yes,26
+643,Barlow's Lark,Calendulauda (erythrochlamys) barlowi,Yes,0
+644,Dune Lark,Calendulauda erythrochlamys,Yes,3
+645,Red Lark,Calendulauda burra,Yes,14
+646,Short-clawed Lark,Certhilauda chuana,Yes,34
+647,Eastern Long-billed Lark,Certhilauda semitorquata,Yes,26
+648,Karoo Long-billed Lark,Certhilauda subcoronata,Yes,38
+649,Benguela Long-billed Lark,Certhilauda (subcoronata) benguelensis,Yes,0
+650,Cape Long-billed Lark,Certhilauda curvirostris,Yes,15
+651,Agulhas Long-billed Lark,Certhilauda (curvirostris) brevirostris,Yes,0
+652,Rudd's Lark,Heteromirafra ruddi,Yes,7
+653,Botha's Lark,Spizocorys fringillaris,Yes,2
+654,Pink-billed Lark,Spizocorys conirostris,Yes,28
+655,Sclater's Lark,Spizocorys sclateri,Yes,3
+656,Stark's Lark,Spizocorys starki,Yes,4
+657,Gray's Lark,Ammomanopsis grayi,Yes,2
+658,Chestnut-backed Sparrow-Lark,Eremopterix leucotis,Yes,14
+659,Grey-backed Sparrow-Lark,Eremopterix verticalis,Yes,12
+660,Black-eared Sparrow-Lark,Eremopterix australis,Yes,2
+661,Short-tailed Pipit,Anthus brachyurus,Yes,6
+662,Bushveld Pipit,Anthus caffer,Yes,5
+663,Tree Pipit,Anthus trivialis,Yes,2552
+664,Red-throated Pipit,Anthus cervinus,Yes,614
+665,African Pipit,Anthus cinnamomeus,Yes,119
+666,Mountain Pipit,Anthus hoeschi,Yes,7
+667,Nicholson's Pipit,Anthus nicholsoni,Yes,33
+668,Wood Pipit,Anthus nyassae,Yes,11
+669,Plain-backed Pipit,Anthus leucophrys,Yes,38
+670,Buffy Pipit,Anthus vaalensis,Yes,6
+671,African Rock Pipit,Anthus crenatus,Yes,143
+672,Striped Pipit,Anthus lineiventris,Yes,34
+673,Yellow-breasted Pipit,Anthus chloris,Yes,15
+674,Golden Pipit,Tmetothylacus tenellus,Yes,4
+675,Yellow-throated Longclaw,Macronyx croceus,Yes,72
+676,Cape Longclaw,Macronyx capensis,Yes,68
+677,Rosy-throated Longclaw,Macronyx ameliae,Yes,16
+678,African Pied Wagtail,Motacilla aguimp,Yes,133
+679,Cape Wagtail,Motacilla capensis,Yes,64
+680,Mountain Wagtail,Motacilla clara,Yes,46
+681,Grey Wagtail,Motacilla cinerea,Yes,1017
+682,Citrine Wagtail,Motacilla citreola,Yes,446
+683,Western Yellow Wagtail,Motacilla flava,Yes,2806
+684,White Wagtail,Motacilla alba,Yes,1826
+685,Red-faced Mousebird,Urocolius indicus,Yes,51
+686,Speckled Mousebird,Colius striatus,Yes,89
+687,White-backed Mousebird,Colius colius,Yes,28
+688,Red-throated Wryneck,Jynx ruficollis,Yes,82
+689,Ground Woodpecker,Geocolaptes olivaceus,Yes,14
+690,Olive Woodpecker,Dendropicos griseocephalus,Yes,40
+691,Knysna Woodpecker,campethera notata,Yes,18
+692,Golden-tailed Woodpecker,Campethera abingoni,Yes,48
+693,Bennett's Woodpecker,Campethera bennettii,Yes,6
+694,Speckle-throated Woodpecker,Campethera scriptoricauda,Yes,1
+695,Green-backed Woodpecker,Campethera cailliautii,Yes,21
+696,Cardinal Woodpecker,Dendropicos fuscescens,Yes,78
+697,Bearded Woodpecker,Chloropicus namaquus,Yes,32
+698,Crested Barbet,Trachyphonus vaillantii,Yes,112
+699,Black-collared Barbet,Lybius torquatus,Yes,75
+700,Acacia Pied Barbet,Tricholaema leucomelas,Yes,67
+701,White-eared Barbet,Stactolaema leucotis,Yes,18
+702,Whyte's Barbet,Stactolaema whytii,Yes,1
+703,Green Barbet,Cryptolybia olivacea,Yes,0
+704,Green Tinkerbird,Pogoniulus simplex,Yes,14
+705,Red-fronted Tinkerbird,Pogoniulus pusillus,Yes,95
+706,Yellow-fronted Tinkerbird,Pogoniulus chrysoconus,Yes,109
+707,Yellow-rumped Tinkerbird,Pogoniulus bilineatus,Yes,205
+708,Greater Honeyguide,Indicator indicator,Yes,94
+709,Scaly-throated Honeyguide,Indicator variegatus,Yes,41
+710,Lesser Honeyguide,Indicator minor,Yes,64
+711,Pallid Honeyguide,Indicator meliphilus,Yes,2
+712,Brown-backed Honeybird,Prodotiscus regulus,Yes,6
+713,Green-backed Honeybird,Prodotiscus zambesiae,Yes,8
+714,African Broadbill,Smithornis capensis,Yes,62
+715,White-tailed Shrike,Lanioturdus torquatus,Yes,13
+716,Black-throated Wattle-eye,Platysteira peltata,Yes,29
+717,Woodward's Batis,Batis fratrum,Yes,13
+718,Cape Batis,Batis capensis,Yes,105
+719,Chinspot Batis,Batis molitor,Yes,153
+720,Pririt Batis,Batis pririt,Yes,67
+721,Pale Batis,Batis soror,Yes,24
+722,Southern Fiscal,Lanius collaris,Yes,70
+723,Lesser Grey Shrike,Lanius minor,Yes,53
+724,Red-backed Shrike,Lanius collurio,Yes,824
+725,Souza's Shrike,Lanius souzae,Yes,12
+726,Red-tailed Shrike,Lanius phoenicuroides,Yes,41
+727,Southern White-crowned Shrike,Eurocephalus anguitimens,Yes,23
+728,Magpie Shrike,Lanius melanoleucus,Yes,0
+729,Grey-headed Bushshrike,Malaconotus blanchoti,Yes,130
+730,Orange-breasted Bushshrike,Chlorophoneus sulfureopectus,Yes,197
+731,Olive Bushshrike,Chlorophoneus olivaceus,Yes,103
+732,Black-fronted Bushshrike,Chlorophoneus nigrifrons,Yes,79
+733,Gorgeous Bushshrike,Telophorus viridis,Yes,58
+734,Bokmakierie,Telophorus zeylonus,Yes,209
+735,Marsh Tchagra,Bocagia minuta,Yes,11
+736,Southern Tchagra,Tchagra tchagra,Yes,28
+737,Brown-crowned Tchagra,Tchagra australis,Yes,104
+738,Black-crowned Tchagra,Tchagra senegalus,Yes,229
+739,Southern Boubou,Laniarius ferrugineus,Yes,174
+740,Tropical Boubou,Laniarius major,Yes,218
+741,Swamp Boubou,Laniarius bicolor,Yes,29
+742,Crimson-breasted Shrike,Laniarius atrococcineus,Yes,73
+743,Black-backed Puffback,Dryoscopus cubla,Yes,297
+744,Brubru,Nilaus afer,Yes,156
+745,White-crested Helmetshrike,Prionops plumatus,Yes,41
+746,Retz's Helmetshrike,Prionops retzii,Yes,31
+747,Chestnut-fronted Helmetshrike,Prionops scopifrons,Yes,6
+748,Black-and-white Shrike-Flycatcher,Bias musicus,Yes,49
+749,Black Cuckooshrike,Campephaga flava,Yes,27
+750,Grey Cuckooshrike,Ceblepyris caesius,Yes,22
+751,White-breasted Cuckooshrike,Ceblepyris pectoralis,Yes,18
+752,Fork-tailed Drongo,Dicrurus adsimilis,Yes,260
+753,Square-tailed Drongo,Dicrurus ludwigii,Yes,145
+754,Black-headed Oriole,Oriolus larvatus,Yes,229
+755,Eurasian Golden Oriole,Oriolus oriolus,Yes,1524
+756,African Golden Oriole,Oriolus auratus,Yes,52
+757,Green-headed Oriole,Oriolus chlorocephalus,Yes,37
+758,African Paradise Flycatcher,Terpsiphone viridis,Yes,205
+759,Blue-mantled Crested Flycatcher,Trochocercus cyanomelas,Yes,70
+760,White-tailed Crested Flycatcher,Elminia albonotata,Yes,81
+761,Fairy Flycatcher,Stenostira scita,Yes,54
+762,Livingstone's Flycatcher,Erythrocercus livingstonei,Yes,17
+763,Chat Flycatcher,Agricola infuscatus,Yes,0
+764,Marico Flycatcher,Bradornis mariquensis,Yes,0
+765,Pale Flycatcher,Agricola pallidus,Yes,0
+766,Spotted Flycatcher,Muscicapa striata,Yes,1782
+767,African Dusky Flycatcher,Muscicapa adusta,Yes,91
+768,Ashy Flycatcher,Fraseria caerulescens,Yes,0
+769,Grey Tit-Flycatcher,Fraseria plumbea,Yes,0
+770,Southern Black Flycatcher,Melaenornis pammelaina,Yes,28
+771,Fiscal Flycatcher,Sigelus silens,Yes,0
+772,Collared Flycatcher,Ficedula albicollis,Yes,562
+773,European Pied Flycatcher,Ficedula hypoleuca,Yes,1557
+774,Southern Hyliota,Hyliota australis,Yes,13
+775,Yellow-bellied Hyliota,Hyliota flavigaster,Yes,11
+776,Southern Black Tit,Melaniparus niger,Yes,47
+777,Carp's Tit,Melaniparus carpi,Yes,8
+778,Grey Tit,Melaniparus afer,Yes,36
+779,Ashy Tit,Melaniparus cinerascens,Yes,69
+780,Miombo Tit,Melaniparus griseiventris,Yes,12
+781,Cinnamon-breasted Tit,Melaniparus (rufiventris) pallidiventris,Yes,0
+782,Rufous-bellied Tit,Melaniparus rufiventris,Yes,22
+783,Cape Penduline Tit,Anthoscopus minutus,Yes,44
+784,Grey Penduline Tit,Anthoscopus caroli,Yes,22
+785,Dark-capped Bulbul,Pycnonotus barbatus,Yes,264
+786,African Red-eyed Bulbul,Pycnonotus nigricans,Yes,74
+787,Cape Bulbul,Pycnonotus capensis,Yes,26
+788,Terrestrial Brownbul,Phyllastrephus terrestris,Yes,71
+789,Yellow-bellied Greenbul,Chlorocichla flaviventris,Yes,59
+790,Sombre Greenbul,Andropadus importunus,Yes,339
+791,Stripe-cheeked Greenbul,Arizelocichla milanjensis,Yes,6
+792,Yellow-streaked Greenbul,Phyllastrephus flavostriatus,Yes,83
+793,Lowland Tiny Greenbul,Phyllastrephus debilis,Yes,15
+794,Yellow-throated Leaflove,Atimastillas flavigula,Yes,0
+795,Eastern Nicator,Nicator gularis,Yes,68
+796,Bush Blackcap,Sylvia nigricapillus,Yes,20
+797,Chestnut-vented Tit-babbler,Curruca subcoerulea,Yes,220
+798,Layard's Tit-babbler,Curruca layardi,Yes,49
+799,Common Whitethroat,Curruca communis,Yes,4361
+800,Lesser Whitethroat,Curruca curruca,Yes,2850
+801,Eurasian Blackcap,Sylvia atricapilla,Yes,5804
+802,Garden Warbler,Sylvia borin,Yes,1926
+803,Willow Warbler,Phylloscopus trochilus,Yes,5418
+804,Green Warbler,Phylloscopus nitidus,Yes,216
+805,Yellow-throated Woodland Warbler,Phylloscopus ruficapilla,Yes,58
+806,Dark-capped Yellow Warbler,Iduna natalensis,Yes,51
+807,Icterine Warbler,Hippolais icterina,Yes,1513
+808,Olive-tree Warbler,Hippolais olivetorum,Yes,56
+809,Upcher's Warbler,Hippolais languida,Yes,40
+810,Sedge Warbler,Acrocephalus schoenobaenus,Yes,1715
+811,Marsh Warbler,Acrocephalus palustris,Yes,2203
+813,Common Reed Warbler,Acrocephalus scirpaceus,Yes,2064
+814,Lesser Swamp Warbler,Acrocephalus gracilirostris,Yes,140
+815,Greater Swamp Warbler,Acrocephalus rufescens,Yes,48
+816,Basra Reed Warbler,Acrocephalus griseldis,Yes,20
+817,Great Reed Warbler,Acrocephalus arundinaceus,Yes,1255
+818,Little Rush Warbler,Bradypterus baboecala,Yes,86
+819,Barratt's Warbler,Bradypterus barratti,Yes,61
+820,Knysna Warbler,Bradypterus sylvaticus,Yes,61
+821,River Warbler,Locustella fluviatilis,Yes,638
+822,Broad-tailed Warbler,Catriscus brevirostris,Yes,32
+823,Cape Grassbird,Sphenoeacus afer,Yes,62
+824,Moustached Grass Warbler,Melocichla mentalis,Yes,71
+825,Victorin's Warbler,Cryptillas victorini,Yes,42
+826,Long-billed Crombec,Sylvietta rufescens,Yes,118
+827,Red-faced Crombec,Sylvietta whytii,Yes,70
+828,Red-capped Crombec,Sylvietta ruficapilla,Yes,21
+829,Neddicky,Cisticola fulvicapilla,Yes,77
+830,Short-winged Cisticola,Cisticola brachypterus,Yes,64
+831,Zitting Cisticola,Cisticola juncidis,Yes,1145
+832,Desert Cisticola,Cisticola aridulus,Yes,43
+833,Cloud Cisticola,Cisticola textrix,Yes,57
+834,Wing-snapping Cisticola,Cisticola ayresii,Yes,37
+835,Pale-crowned Cisticola,Cisticola cinnamomeus,Yes,13
+836,Levaillant's Cisticola,Cisticola tinniens,Yes,81
+837,Rufous-winged Cisticola,Cisticola galactotes,Yes,9
+838,Luapula Cisticola,Cisticola luapula,Yes,6
+839,Chirping Cisticola,Cisticola pipiens,Yes,15
+840,Grey-backed Cisticola,Cisticola subruficapilla,Yes,53
+841,Wailing Cisticola,Cisticola lais,Yes,69
+842,Tinkling Cisticola,Cisticola rufilatus,Yes,15
+843,Rattling Cisticola,Cisticola chiniana,Yes,364
+844,Lazy Cisticola,Cisticola aberrans,Yes,58
+845,Red-faced Cisticola,Cisticola erythrops,Yes,174
+846,Singing Cisticola,Cisticola cantans,Yes,161
+847,Croaking Cisticola,Cisticola natalensis,Yes,71
+848,Tawny-flanked Prinia,Prinia subflava,Yes,310
+849,Black-chested Prinia,Prinia flavicans,Yes,53
+850,Drakensberg Prinia,Prinia hypoxantha,Yes,20
+851,Karoo Prinia,Prinia maculosa,Yes,98
+852,Namaqua Warbler,Phragmacia substriata,Yes,46
+853,Rufous-eared Warbler,Malcorus pectoralis,Yes,60
+854,Roberts's Warbler,Oreophilais robertsi,Yes,14
+855,Red-winged Warbler,Prinia erythroptera,Yes,24
+856,Cinnamon-breasted Warbler,Euryptila subcinnamomea,Yes,15
+857,Barred Wren-Warbler,Calamonastes fasciolatus,Yes,35
+858,Stierling's Wren-Warbler,Calamonastes stierlingi,Yes,45
+859,Green-backed Camaroptera,Camaroptera brachyura,Yes,188
+860,Grey-backed Camaroptera,Camaroptera brevicaudata,Yes,399
+861,Bar-throated Apalis,Apalis thoracica,Yes,191
+862,Rudd's Apalis,Apalis ruddi,Yes,15
+863,Yellow-breasted Apalis,Apalis flavida,Yes,149
+864,Chirinda Apalis,Apalis chirindensis,Yes,10
+865,Black-headed Apalis,Apalis melanocephala,Yes,70
+866,Yellow-bellied Eremomela,Eremomela icteropygialis,Yes,53
+867,Burnt-necked Eremomela,Eremomela usticollis,Yes,12
+868,Green-capped Eremomela,Eremomela scotops,Yes,27
+869,Karoo Eremomela,Eremomela gregalis,Yes,27
+870,Cape White-eye,Zosterops virens,Yes,106
+871,Orange River White-eye,Zosterops pallidus,Yes,47
+872,Southern Yellow White-eye,Zosterops anderssoni,Yes,66
+873,African Spotted Creeper,Salpornis salvadori,Yes,28
+874,Red-billed Oxpecker,Buphagus erythrorynchus,Yes,44
+875,Yellow-billed Oxpecker,Buphagus africanus,Yes,19
+876,Cape Sugarbird,Promerops cafer,Yes,34
+877,Gurney's Sugarbird,Promerops gurneyi,Yes,23
+878,Grey Sunbird,Cyanomitra veroxii,Yes,99
+879,Olive Sunbird,Cyanomitra olivacea,Yes,341
+880,Amethyst Sunbird,Chalcomitra amethystina,Yes,68
+881,Scarlet-chested Sunbird,Chalcomitra senegalensis,Yes,141
+882,Orange-breasted Sunbird,Anthobaphes violacea,Yes,19
+883,Malachite Sunbird,Nectarinia famosa,Yes,82
+884,Bronzy Sunbird,Nectarinia kilimensis,Yes,61
+885,Copper Sunbird,Cinnyris cupreus,Yes,30
+886,Greater Double-collared Sunbird,Cinnyris afer,Yes,36
+887,Southern Double-collared Sunbird,Cinnyris chalybeus,Yes,89
+888,Eastern Miombo Sunbird,Cinnyris manoensis,Yes,11
+889,Marico Sunbird,Cinnyris mariquensis,Yes,78
+890,Purple-banded Sunbird,Cinnyris bifasciatus,Yes,83
+891,Neergaard's Sunbird,Cinnyris neergaardi,Yes,5
+892,Shelley's Sunbird,Cinnyris shelleyi,Yes,3
+893,Dusky Sunbird,Cinnyris fuscus,Yes,38
+894,White-bellied Sunbird,Cinnyris talatala,Yes,123
+895,Variable Sunbird,Cinnyris venustus,Yes,183
+896,Collared Sunbird,Hedydipna collaris,Yes,243
+897,Plain-backed Sunbird,Anthreptes reichenowi,Yes,20
+898,Western Violet-backed Sunbird,Anthreptes longuemarei,Yes,7
+899,House Sparrow,Passer domesticus,Yes,3058
+900,Cape Sparrow,Passer melanurus,Yes,75
+901,Great Sparrow,Passer motitensis,Yes,10
+902,Southern Grey-headed Sparrow,Passer diffusus,Yes,68
+903,Northern Grey-headed Sparrow,Passer griseus,Yes,94
+904,Yellow-throated Bush Sparrow,Gymnoris superciliaris,Yes,51
+905,White-browed Sparrow-Weaver,Plocepasser mahali,Yes,152
+906,Sociable Weaver,Philetairus socius,Yes,32
+907,Scaly-feathered Finch,Sporopipes squamifrons,Yes,25
+908,Red-billed Buffalo Weaver,Bubalornis niger,Yes,41
+909,Thick-billed Weaver,Amblyospiza albifrons,Yes,34
+910,Village Weaver,Ploceus cucullatus,Yes,158
+911,Southern Masked Weaver,Ploceus velatus,Yes,56
+912,Lesser Masked Weaver,Ploceus intermedius,Yes,42
+913,Spectacled Weaver,Ploceus ocularis,Yes,69
+914,Yellow Weaver,Ploceus subaureus,Yes,29
+915,African Golden Weaver,Ploceus xanthops,Yes,47
+916,Southern Brown-throated Weaver,Ploceus xanthopterus,Yes,21
+917,Cape Weaver,Ploceus capensis,Yes,37
+918,Chestnut Weaver,Ploceus rubiginosus,Yes,17
+919,Dark-backed Weaver,Ploceus bicolor,Yes,93
+920,Olive-headed Weaver,Ploceus olivaceiceps,Yes,2
+921,Red-headed Weaver,Anaplectes rubriceps,Yes,14
+922,Long-tailed Widowbird,Euplectes progne,Yes,34
+923,Red-collared Widowbird,Euplectes ardens,Yes,23
+924,Fan-tailed Widowbird,Euplectes axillaris,Yes,8
+925,Yellow-mantled Widowbird,Euplectes macroura,Yes,10
+926,White-winged Widowbird,Euplectes albonotatus,Yes,14
+927,Yellow Bishop,Euplectes capensis,Yes,46
+928,Yellow-crowned Bishop,Euplectes afer,Yes,47
+929,Southern Red Bishop,Euplectes orix,Yes,56
+930,Black-winged Bishop,Euplectes hordeaceus,Yes,17
+931,Red-billed Quelea,Quelea quelea,Yes,49
+932,Red-headed Quelea,Quelea erythrops,Yes,2
+933,Cardinal Quelea,Quelea cardinalis,Yes,4
+934,Pin-tailed Whydah,Vidua macroura,Yes,81
+935,Shaft-tailed Whydah,Vidua regia,Yes,11
+936,Long-tailed Paradise Whydah,Vidua paradisaea,Yes,8
+937,Broad-tailed Paradise Whydah,Vidua obtusa,Yes,2
+938,Dusky Indigobird,Vidua funerea,Yes,27
+939,Purple Indigobird,Vidua purpurascens,Yes,24
+940,Village Indigobird,Vidua chalybeata,Yes,76
+941,Zambezi Indigobird,Vidua codringtoni,Yes,6
+942,Cuckoo Finch,Anomalospiza imberbis,Yes,9
+943,Red-headed Finch,Amadina erythrocephala,Yes,19
+944,Cut-throat Finch,Amadina fasciata,Yes,17
+945,Quailfinch,Ortygospiza atricollis,Yes,59
+946,Locust Finch,Paludipasser locustella,Yes,16
+947,African Firefinch,Lagonosticta rubricata,Yes,45
+948,Jameson's Firefinch,Lagonosticta rhodopareia,Yes,27
+949,Red-billed Firefinch,Lagonosticta senegala,Yes,79
+950,Brown Firefinch,Lagonosticta nitidula,Yes,10
+951,Red-faced Crimsonwing,Cryptospiza reichenovii,Yes,23
+952,Lesser Seedcracker,Pyrenestes minor,Yes,3
+953,Red-throated Twinspot,Hypargos niveoguttatus,Yes,19
+954,Pink-throated Twinspot,Hypargos margaritatus,Yes,7
+955,Green Twinspot,Mandingoa nitidula,Yes,14
+956,Green-winged Pytilia,Pytilia melba,Yes,36
+957,Orange-winged Pytilia,Pytilia afra,Yes,3
+958,Orange-breasted Waxbill,Amandava subflava,Yes,20
+959,Swee Waxbill,Coccopygia melanotis,Yes,20
+960,Angolan Waxbill,Coccopygia bocagei,Yes,1
+961,Yellow-bellied Waxbill,Coccopygia quartinia,Yes,23
+962,Blue Waxbill,Uraeginthus angolensis,Yes,51
+963,Violet-eared Waxbill,Granatina granatina,Yes,12
+964,Common Waxbill,Estrilda astrild,Yes,355
+965,Black-faced Waxbill,Brunhilda erythronotos,Yes,14
+966,Grey Waxbill,Glaucestrilda perreini,Yes,3
+967,Cinderella Waxbill,Glaucestrilda thomensis,Yes,5
+968,Bronze Mannikin,Spermestes cucullata,Yes,62
+969,Red-backed Mannikin,Spermestes nigriceps,Yes,15
+970,Magpie Mannikin,Spermestes fringilloides,Yes,7
+971,Black-headed Canary,Serinus alario,Yes,26
+972,Cape Canary,Serinus canicollis,Yes,61
+973,Forest Canary,Crithagra scotops,Yes,34
+974,Brimstone Canary,Crithagra sulphurata,Yes,51
+975,Yellow Canary,Crithagra flaviventris,Yes,52
+976,Yellow-fronted Canary,Crithagra mozambica,Yes,128
+977,Black-throated Canary,Crithagra atrogularis,Yes,25
+978,Lemon-breasted Canary,Crithagra citrinipectus,Yes,2
+979,Cape Siskin,Crithagra totta,Yes,14
+980,Drakensberg Siskin,Crithagra symonsi,Yes,9
+981,Protea Canary,Crithagra leucoptera,Yes,15
+982,White-throated Canary,Crithagra albogularis,Yes,40
+983,Streaky-headed Seedeater,Crithagra gularis,Yes,39
+984,Black-eared Seedeater,Crithagra mennelli,Yes,10
+985,Common Chaffinch,Fringilla coelebs,Yes,7936
+986,Lark-like Bunting,Emberiza impetuani,Yes,36
+987,Cape Bunting,Emberiza capensis,Yes,65
+988,Cinnamon-breasted Bunting,Emberiza tahapisi,Yes,140
+989,Golden-breasted Bunting,Emberiza flaviventris,Yes,120
+990,Cabanis's Bunting,Emberiza cabanisi,Yes,46
+991,Ortolan Bunting,Emberiza hortulana,Yes,1976
+992,Laughing Gull,Leucophaeus atricilla,Yes,136
+993,Wood Warbler,Phylloscopus sibilatrix,Yes,1395
+994,Christmas Island Frigatebird,Fregata andrewsi,Yes,3
+995,Mascarene Petrel,Pseudobulweria aterrima,Yes,4
+996,Pincoya Storm Petrel,Oceanites pincoyae,Yes,1
+997,Woodchat Shrike,Lanius senator,Yes,219
+998,Dimorphic Egret,Egretta (garzetta) dimorpha,Yes,0
+999,European Red-rumped Swallow,Cecropis rufula,Yes,0
