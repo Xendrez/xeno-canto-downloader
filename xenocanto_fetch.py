@@ -111,11 +111,14 @@ class XenoCantoFetcher:
     
     def build_query(self, scientific_name: str, country: str = DEFAULT_COUNTRY) -> str:
         """Build API query string with search tags"""
-        # Format: sp:"Genus species"+cnt:ZA
+        # For now, just search by species without country filter
+        # The API seems to have issues with combining quoted species names and country filters
         query = f'sp:"{scientific_name}"'
         
-        if country:
-            query += f'+cnt:{country}'
+        # TODO: Fix country filter - the API returns 400 error when combining
+        # sp:"Species name"+cnt:XX format
+        # if country:
+        #     query += f'+cnt:{country}'
             
         return query
     
