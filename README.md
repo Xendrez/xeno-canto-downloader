@@ -10,20 +10,42 @@ A Python tool for downloading bird recordings from Xeno-canto.org using their AP
    - Get your API key from account settings
    - Update `API_KEY` in `config.py`
 
-2. **Install Dependencies**
+2. **Create and Activate Virtual Environment**
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On macOS/Linux
+   # Or use: ./venv/bin/python3 directly
+   ```
+
+3. **Install Dependencies**
    ```bash
    pip install requests
    ```
 
-3. **Prepare Species List**
+4. **Prepare Species List**
    - Create a `labels.csv` file with columns: `birdId`, `birdName`, `scientificName`
    - See `labels_sample.csv` for format example
 
 ## Usage
 
+### Running Scripts
+
+**Option 1: Activate the virtual environment**
+```bash
+source venv/bin/activate
+python3 xenocanto_fetch.py
+python3 download_audio.py
+```
+
+**Option 2: Use the virtual environment's Python directly**
+```bash
+./venv/bin/python3 xenocanto_fetch.py
+./venv/bin/python3 download_audio.py
+```
+
 ### Step 1: Fetch Metadata
 ```bash
-python xenocanto_fetch.py
+python3 xenocanto_fetch.py
 ```
 
 This will:
@@ -35,7 +57,7 @@ This will:
 
 ### Step 2: Download Audio Files
 ```bash
-python download_audio.py
+python3 download_audio.py
 ```
 
 This will:
@@ -74,7 +96,7 @@ xeno-canto downloads/
 
 ### Update labels.csv with results
 ```bash
-python update_labels_with_results.py
+python3 update_labels_with_results.py
 ```
 
 This will:
@@ -85,7 +107,7 @@ This will:
 
 ### Update labels.csv in place
 ```bash
-python update_labels_inplace.py
+python3 update_labels_inplace.py
 ```
 
 This will:
