@@ -12,7 +12,7 @@ import sys
 import time
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple
 from urllib.parse import urlparse
 
 import requests
@@ -28,6 +28,7 @@ class AudioDownloader:
         self.total_downloads = 0
         self.total_skipped = 0
         self.total_errors = 0
+        self.total_size_exceeded = 0
         self.start_time = datetime.now()
         
         # Setup logging
@@ -85,8 +86,21 @@ class AudioDownloader:
                 hash_md5.update(chunk)
         return hash_md5.hexdigest()
     
-    def download_file(self, url: str, filepath: Path, max_size: int = 50 * 1024 * 1024) -> bool:
-        """Download a file with size limit (default 50MB)"""
+    def create_size_limit_marker(self, filepath: Path) -> None:
+        """Create a marker file to indicate size limit was exceeded"""
+        marker_path = filepath.with_suffix('.size_limit_exceeded')
+        marker_path.touch()
+        self.logger.debug(f"Created size limit marker: {marker_path}")
+    
+    def check_size_limit_marker(self, filepath: Path) -> bool:
+        """Check if a size limit marker exists for this file"""
+        marker_path = filepath.with_suffix('.size_limit_exceeded')
+        return marker_path.exists()
+    
+    def download_file(self, url: str, filepath: Path, max_size: int = 50 * 1024 * 1024) -> Tuple[bool, str]:
+        """Download a file with size limit (default 50MB)
+        Returns: (success, status) where status is 'downloaded', 'size_exceeded', or 'error'
+        """
         try:
             # Make request
             response = self.session.get(url, stream=True, timeout=30)
@@ -96,7 +110,8 @@ class AudioDownloader:
             content_length = response.headers.get('content-length')
             if content_length and int(content_length) > max_size:
                 self.logger.warning(f"File too large ({int(content_length)/1024/1024:.1f}MB): {url}")
-                return False
+                self.create_size_limit_marker(filepath)
+                return False, 'size_exceeded'
             
             # Download file
             downloaded = 0
@@ -110,28 +125,31 @@ class AudioDownloader:
                         if downloaded > max_size:
                             self.logger.warning(f"Download exceeded size limit: {url}")
                             os.remove(filepath)
-                            return False
+                            self.create_size_limit_marker(filepath)
+                            return False, 'size_exceeded'
             
             # Verify file exists and has content
             if filepath.exists() and filepath.stat().st_size > 0:
-                return True
+                return True, 'downloaded'
             else:
                 self.logger.error(f"Downloaded file is empty or missing: {filepath}")
-                return False
+                return False, 'error'
                 
         except requests.exceptions.RequestException as e:
             self.logger.error(f"Download error: {e}")
             if filepath.exists():
                 os.remove(filepath)
-            return False
+            return False, 'error'
         except Exception as e:
             self.logger.error(f"Unexpected error downloading {url}: {e}")
             if filepath.exists():
                 os.remove(filepath)
-            return False
+            return False, 'error'
     
-    def process_recording(self, recording: Dict, species_dir: Path) -> bool:
-        """Process a single recording"""
+    def process_recording(self, recording: Dict, species_dir: Path) -> Tuple[bool, bool]:
+        """Process a single recording
+        Returns: (success, was_downloaded) - second value True if actually downloaded, False if skipped
+        """
         try:
             # Extract metadata
             rec_id = recording.get('id', 'unknown')
@@ -140,7 +158,7 @@ class AudioDownloader:
             
             if not file_url:
                 self.logger.warning(f"No file URL for recording {rec_id}")
-                return False
+                return False, False
             
             # Ensure .mp3 extension
             if not file_name.endswith('.mp3'):
@@ -154,11 +172,19 @@ class AudioDownloader:
             if filepath.exists():
                 self.logger.debug(f"Already downloaded: {safe_filename}")
                 self.total_skipped += 1
-                return True
+                return True, False  # Success but not downloaded
+            
+            # Check if size limit was previously exceeded
+            if self.check_size_limit_marker(filepath):
+                self.logger.debug(f"Skipping (previously exceeded size limit): {safe_filename}")
+                self.total_size_exceeded += 1
+                return True, False  # Success but not downloaded
             
             # Download file
             self.logger.info(f"Downloading: {safe_filename}")
-            if self.download_file(file_url, filepath):
+            success, status = self.download_file(file_url, filepath)
+            
+            if success:
                 self.total_downloads += 1
                 
                 # Log some metadata
@@ -168,15 +194,18 @@ class AudioDownloader:
                     f"Downloaded: {safe_filename} "
                     f"(quality: {quality}, duration: {duration})"
                 )
-                return True
+                return True, True  # Success and downloaded
+            elif status == 'size_exceeded':
+                self.total_size_exceeded += 1
+                return True, False  # Treated as success but not downloaded
             else:
                 self.total_errors += 1
-                return False
+                return False, False
                 
         except Exception as e:
             self.logger.error(f"Error processing recording: {e}")
             self.total_errors += 1
-            return False
+            return False, False
     
     def process_species_cache(self, cache_file: Path) -> None:
         """Process all recordings in a cache file"""
@@ -203,10 +232,11 @@ class AudioDownloader:
             self.logger.info(f"[{i}/{len(recordings)}] Processing recording...")
             
             # Process recording
-            self.process_recording(recording, species_dir)
+            success, was_downloaded = self.process_recording(recording, species_dir)
             
-            # Rate limiting
-            time.sleep(REQUEST_DELAY)
+            # Rate limiting - only delay after actual downloads
+            if was_downloaded:
+                time.sleep(REQUEST_DELAY)
     
     def generate_download_summary(self) -> None:
         """Generate download summary"""
@@ -215,6 +245,7 @@ class AudioDownloader:
         self.logger.info("\n=== Download Summary ===")
         self.logger.info(f"Total downloads: {self.total_downloads}")
         self.logger.info(f"Total skipped (already downloaded): {self.total_skipped}")
+        self.logger.info(f"Total skipped (size limit exceeded): {self.total_size_exceeded}")
         self.logger.info(f"Total errors: {self.total_errors}")
         self.logger.info(f"Total time: {elapsed/60:.1f} minutes")
         
